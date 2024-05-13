@@ -1,0 +1,11 @@
+{
+  "name": "lafayette-mowing",
+  "version": "1.0.0",
+  "description": "Mowing site template",
+  "main": "index.html",
+  "scripts": {
+    "dev": "http-server -o ./"
+  },
+  "author": "",
+  "license": "ISC"
+}
