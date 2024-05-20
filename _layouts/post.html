@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include meta.html %}
+    {% include styles.html %}
+  </head>
+  <body>
+    {% include header.html %}
+    {% include blog-hero.html %}
+
+    <div class="container my-5">
+      {{ content }}
+    </div>
+
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
+</html>
