@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2024-05-20 10:15:02 -0400
+hero: '/images/gallery-5.jpg'
 thumbnail: '/images/image_1.jpg'
 ---
 
