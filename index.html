@@ -175,7 +175,7 @@ title: LafayetteMowing.com - Love your lawn!
       {% for post in site.posts %}
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
-            <a href="blog-single.html" class="block-20" style="background-image: url('images/image_1.jpg');">
+            <a href="blog-single.html" class="block-20" style="background-image: url('{{ post.thumbnail }}');">
             </a>
             <div class="text p-4 float-right d-block">
               <div class="topper d-flex align-items-center">
@@ -193,6 +193,9 @@ title: LafayetteMowing.com - Love your lawn!
             </div>
           </div>
         </div>
+        {% if forloop.index > 2 %}
+          {% break %}
+        {% endif %}
       {% endfor %}
     </div>
   </div>
