@@ -2,8 +2,10 @@
 layout: post
 title:  "Combating Spotted Lanternflies"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_6.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_6.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 The invasive spotted lanternfly (Lycorma delicatula) has emerged as a significant threat to agriculture, forestry, and residential landscapes in recent years. <!--more-->Originating from Asia, this destructive pest feeds on a wide range of plants, including trees, vines, and ornamental plants, and can cause severe damage if left unchecked. In this article, we'll explore what you need to know about spotted lanternflies and provide essential strategies for combating this invasive species and protecting your property.
 

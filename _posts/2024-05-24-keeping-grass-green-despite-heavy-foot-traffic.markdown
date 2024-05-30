@@ -2,8 +2,10 @@
 layout: post
 title:  "Keeping Grass Green Despite Heavy Foot Traffic"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_16.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_16.jpg'
+categories: [indiana, grass, fertilization, recreation]
 ---
 Maintaining a lush, green lawn can be a challenge, especially in high-traffic areas where constant foot traffic can take a toll on grass health and appearance. <!--more-->Whether it's children playing, pets running around, or frequent gatherings with friends and family, heavy foot traffic can lead to compacted soil, worn turf, and bare patches that detract from the beauty of your lawn. In this guide, we'll explore a variety of strategies for keeping grass green despite heavy foot traffic, from selecting durable grass varieties to implementing proper care and maintenance practices. By following these tips, you can ensure that your lawn remains vibrant and resilient, even in the most heavily trafficked areas of your yard.
 

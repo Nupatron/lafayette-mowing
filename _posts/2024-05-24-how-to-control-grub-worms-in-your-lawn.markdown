@@ -2,8 +2,10 @@
 layout: post
 title:  "How to Control Grub Worms in Your Lawn"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_10.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_10.jpg'
+categories: [pests, curb appeal, garden, flowers]
 ---
 Grub worms, the larvae of various beetle species, can wreak havoc on your lawn by feeding on grass roots, causing brown patches, wilting turf, and increased susceptibility to other pests and diseases. <!--more-->If left unchecked, a grub infestation can devastate the health and appearance of your lawn. Fortunately, with the right approach, you can effectively control grub worms and protect your turf from damage. In this guide, we'll explore a variety of tips and techniques for identifying, monitoring, and controlling grub worms in your lawn, ensuring that your outdoor space remains healthy, vibrant, and resilient.
 

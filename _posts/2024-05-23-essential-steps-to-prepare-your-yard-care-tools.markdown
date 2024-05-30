@@ -2,8 +2,10 @@
 layout: post
 title:  "Essential Steps to Prepare Your Yard Care Tools"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_16.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_16.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 As the chill of winter gives way to the warmth of spring, homeowners across the country are eagerly anticipating the return of green grass, blooming flowers, and outdoor activities. <!--more-->But before you dive headfirst into spring lawn care tasks, it's essential to ensure that your yard care tools are in optimal condition. Properly maintained tools not only make your outdoor tasks more efficient but also extend the lifespan of your equipment. In this guide, we'll walk you through the essential steps to prepare your yard care tools for the upcoming spring season.
 1. Clean and Inspect Your Tools

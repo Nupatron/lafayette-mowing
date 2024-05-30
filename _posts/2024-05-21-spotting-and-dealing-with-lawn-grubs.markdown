@@ -2,8 +2,10 @@
 layout: post
 title:  "Spotting and Dealing with Lawn Grubs"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_9.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_9.jpg'
+categories: [indiana, grass, pests]
 ---
 Lawn grubs, the larval stage of various beetle species, are notorious pests that can wreak havoc on your lawn if left unchecked. <!--more-->These voracious feeders tunnel through the soil, devouring grass roots and causing brown patches and thinning turf. Spotting and dealing with lawn grubs promptly is essential for protecting your lawn's health and preventing extensive damage. In this comprehensive guide, we'll explore how to identify lawn grubs, recognize signs of infestation, and implement effective strategies for controlling these pesky pests.
 

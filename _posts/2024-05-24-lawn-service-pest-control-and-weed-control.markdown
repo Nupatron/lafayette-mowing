@@ -2,8 +2,10 @@
 layout: post
 title:  "Lawn Service: Pest Control and Weed Control"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_12.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_12.jpg'
+categories: [grass, pests, fertilization]
 ---
 Maintaining a healthy and vibrant lawn requires more than just regular mowing and watering. <!--more-->To truly achieve the lush, green lawn of your dreams, you'll need to address two common challenges: pests and weeds. These pesky invaders can wreak havoc on your turf, disrupting its growth and detracting from its overall beauty. In this comprehensive guide, we'll explore the importance of pest control and weed control in lawn care and discuss effective strategies for keeping your lawn pest-free and weed-free year-round.
 

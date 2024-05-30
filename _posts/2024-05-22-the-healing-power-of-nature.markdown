@@ -2,8 +2,10 @@
 layout: post
 title:  "The Healing Power of Nature"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_10.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_10.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 In today's fast-paced world, it's easy to become overwhelmed by the stresses of daily life. <!--more-->However, finding solace and rejuvenation may be as simple as stepping outside and immersing yourself in nature. Research has shown that spending time outdoors offers numerous benefits for mental health, from reducing stress and anxiety to improving mood and enhancing overall well-being. In this article, we'll explore the therapeutic effects of nature and why being outside is good for your mental health.
 

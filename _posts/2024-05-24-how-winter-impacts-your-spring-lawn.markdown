@@ -2,8 +2,10 @@
 layout: post
 title:  "How Winter Impacts Your Spring Lawn"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_9.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_9.jpg'
+categories: [indiana, grass, fertilization, curb appeal]
 ---
 Winter is a challenging season for lawns. <!--more-->The cold temperatures, snow, and ice can significantly impact your lawn's health, leading to issues that affect its growth and appearance in the spring. Understanding how winter affects your lawn and taking proactive measures can help ensure a lush, green lawn when warmer weather returns. This guide will explore the various ways winter impacts your spring lawn and provide tips for mitigating these effects.
 

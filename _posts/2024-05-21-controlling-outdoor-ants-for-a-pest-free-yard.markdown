@@ -2,8 +2,10 @@
 layout: post
 title:  "Controlling Outdoor Ants for a Pest-Free Yard"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_12.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_12.jpg'
+categories: [pests, curb appeal, garden]
 ---
 Ants are a common nuisance in outdoor spaces, often invading lawns, gardens, and patios in search of food and shelter. <!--more-->While some ant species are relatively harmless, others can cause damage to plants, create unsightly mounds, and even pose health risks to humans and pets. Controlling outdoor ants is essential for maintaining a pest-free yard and ensuring the health and beauty of your landscape. In this comprehensive guide, we'll explore effective strategies for controlling outdoor ants and creating a pest-free environment for your lawn and garden.
 

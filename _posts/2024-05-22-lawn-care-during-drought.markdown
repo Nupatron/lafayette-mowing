@@ -2,8 +2,10 @@
 layout: post
 title:  "Lawn Care During Drought"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_7.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_7.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Maintaining a lush and green lawn can be challenging, especially during periods of drought when water restrictions and dry conditions pose significant obstacles. <!--more-->However, with proper care and attention, it's possible to keep your lawn healthy and vibrant even in the face of water scarcity. In this article, we'll explore essential tips for lawn care during drought conditions to help you preserve the health and beauty of your turfgrass.
 

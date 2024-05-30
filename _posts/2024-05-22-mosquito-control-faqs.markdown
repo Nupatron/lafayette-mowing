@@ -2,8 +2,10 @@
 layout: post
 title:  "Mosquito Control FAQs"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_14.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_14.jpg'
+categories: [indiana, pests, recreation]
 ---
 Mosquitoes are not just annoying pests; they can also pose serious health risks by transmitting diseases such as West Nile virus, Zika virus, and dengue fever.<!--more--> As the warmer months approach, it's essential to arm yourself with knowledge about mosquito control to protect yourself, your family, and your lawn from these pesky insects. In this comprehensive guide, we'll answer frequently asked questions about mosquito control, providing you with the information you need to develop an effective defense plan for a pest-free lawn.
 

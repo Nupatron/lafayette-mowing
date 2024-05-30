@@ -2,8 +2,10 @@
 layout: post
 title:  "How to Get a Lawn That Looks Fit for a Major League Ballpark"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_9.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_9.jpg'
+categories: [indiana, grass, fertilization, curb appeal, recreation]
 ---
 Dreaming of having a lawn that rivals the perfectly manicured turf of a Major League Baseball ballpark? <!--more-->With the right approach to lawn care and maintenance, you can transform your outdoor space into a verdant oasis that looks fit for the big leagues. In this comprehensive guide, we'll share expert tips and techniques for achieving a professional-quality lawn that will make your neighbors green with envy.
 1. Start with the Basics: Soil Preparation

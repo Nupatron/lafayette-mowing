@@ -2,8 +2,10 @@
 layout: post
 title:  "Tips for Tackling Lawn Care Challenges"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_14.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_14.jpg'
+categories: [grass, pests, fertilization]
 ---
 Moving into a new home is an exciting milestone, but it also comes with its fair share of challenges—especially when it comes to caring for your new yard. <!--more-->From unknown soil conditions to unfamiliar plant species, navigating the ins and outs of lawn care in a new environment can be overwhelming. In this article, we'll discuss common lawn care challenges faced by new homeowners and provide expert tips for overcoming them to achieve a beautiful and healthy yard.
 

@@ -2,8 +2,10 @@
 layout: post
 title:  "5 Essential Facts About Lyme Disease and Tick Prevention"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_5.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_5.jpg'
+categories: [indiana, pests, garden, recreation]
 ---
 As the weather warms up and outdoor activities become more common, it's essential to be aware of the risks associated with Lyme disease and tick bites. <!--more-->In this article, we'll explore five essential facts about Lyme disease and tick prevention to help you safeguard your family and maintain a healthy lawn.
 

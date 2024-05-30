@@ -2,8 +2,10 @@
 layout: post
 title:  "Tips for a Secure Lawn Environment"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_7.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_7.jpg'
+categories: [indiana, grass, curb appeal, garden, flowers, recreation]
 ---
 Creating a safe lawn environment is essential for the well-being of your family, pets, and visitors. <!--more-->By taking a few simple precautions, you can prevent accidents and ensure your lawn is a secure space for everyone to enjoy. Here’s a comprehensive guide to enhancing lawn safety, covering everything from equipment maintenance to natural pest control.
 

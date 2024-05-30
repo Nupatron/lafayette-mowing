@@ -2,8 +2,10 @@
 layout: post
 title:  "A Lush Lawn is Just a Click Away"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_12.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_12.jpg'
+categories: [indiana, grass, curb appeal, garden, flowers, recreation]
 ---
 In today's digital age, convenience is key, and lawn care is no exception.<!--more--> With just a few clicks of a mouse or taps on a screen, you can access a wealth of lawn care services and resources to help you achieve the lush, green lawn of your dreams. From professional lawn care providers to DIY guides and online tools, the options are endless. In this comprehensive guide, we'll explore the world of online lawn care services and show you how to harness the power of the internet to transform your lawn into a verdant oasis.
 

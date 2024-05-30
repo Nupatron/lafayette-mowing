@@ -2,8 +2,10 @@
 layout: post
 title:  "Identifying Signs of Lawn Drainage Issues"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_11.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_11.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Proper drainage is essential for maintaining a healthy, lush lawn. Poor drainage can lead to waterlogged soil, standing water, and root suffocation, ultimately resulting in stunted growth, yellowing grass, and even lawn diseases. <!--more-->Identifying signs of drainage issues early on is crucial for addressing them promptly and preventing further damage to your lawn. In this guide, we'll explore common signs of lawn drainage issues and provide practical solutions to help you restore proper drainage and ensure the health and vitality of your turf.
 

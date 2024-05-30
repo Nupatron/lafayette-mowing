@@ -2,8 +2,10 @@
 layout: post
 title:  "The Complete Midwestern Lawn Care Guide"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_11.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_11.jpg'
+categories: [indiana, grass, fertilization, decoration, curb appeal, garden, recreation]
 ---
 Maintaining a beautiful lawn in the Midwest comes with its own set of challenges and opportunities. <!--more-->From hot summers to cold winters and everything in between, the Midwest climate requires specific care and attention to keep your lawn looking its best year-round. In this comprehensive guide, we'll explore the ins and outs of Midwestern lawn care, providing expert tips and advice for achieving a lush, green lawn that's the envy of the neighborhood.
 

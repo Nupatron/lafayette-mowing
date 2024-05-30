@@ -2,8 +2,10 @@
 layout: post
 title:  "Discover Your Most Durable Lawn Options"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_14.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_14.jpg'
+categories: [grass, fertilization, curb appeal, garden, flowers]
 ---
 A lush, green lawn is the pride of any homeowner, but maintaining its beauty can be challenging, especially in high-traffic areas where constant foot traffic and other activities take their toll. <!--more-->Fortunately, there are several durable grass options that can withstand heavy use and still provide a vibrant, healthy lawn year-round. In this article, we'll explore the best high-traffic grass varieties, helping you choose the most durable option for your lawn and keep it looking its best even under heavy wear and tear.
 

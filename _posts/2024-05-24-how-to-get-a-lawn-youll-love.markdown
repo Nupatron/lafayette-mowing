@@ -2,8 +2,10 @@
 layout: post
 title:  "How to Get a Lawn You'll Love"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_8.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_8.jpg'
+categories: [indiana, grass, fertilization, curb appeal]
 ---
 A lush, green lawn is more than just grass—it's the foundation of a beautiful outdoor space where you can relax, play, and entertain. <!--more-->Whether you're a seasoned lawn care enthusiast or new to the world of turf management, achieving a lawn you'll love is within reach with the right knowledge and approach. In this comprehensive guide, we'll explore a variety of tips and techniques for cultivating your dream lawn, from soil preparation and grass selection to proper care and maintenance. By following these strategies, you can transform your lawn into a vibrant oasis that enhances the beauty of your home and brings joy to your life.
 

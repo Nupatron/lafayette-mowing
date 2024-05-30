@@ -2,8 +2,10 @@
 layout: post
 title:  "Outdoor Fitness in the Winter"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_10.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_10.jpg'
+categories: [indiana, curb appeal, garden, flowers, recreation]
 ---
 As the temperature drops and the days grow shorter, it's tempting to hibernate indoors until spring arrives. <!--more--> However, staying active outdoors during the winter months offers numerous health benefits and can help combat the winter blues. In this article, we'll explore the advantages of outdoor fitness in the winter, tips for staying safe and comfortable, and fun activities to enjoy in the great outdoors during the colder months.
 

@@ -2,8 +2,10 @@
 layout: post
 title:  "Lawn Aeration: Core Aeration Explained"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_15.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_15.jpg'
+categories: [indiana, grass, fertilization, recreation]
 ---
 A lush, green lawn is the envy of every homeowner, but achieving and maintaining that vibrant look requires more than just regular mowing and watering.<!--more--> Lawn aeration, particularly core aeration, is a critical step in promoting healthy grass growth and improving the overall condition of your lawn. In this comprehensive guide, we'll delve into the benefits of core aeration, how it works, when to do it, and how to ensure your lawn reaps the maximum rewards.
 

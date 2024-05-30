@@ -2,8 +2,10 @@
 layout: post
 title:  "Cold Season Gardening"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_9.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_9.jpg'
+categories: [indiana, garden, flowers, recreation]
 ---
 While many may associate gardening with warm weather and blooming flowers, there's a whole world of greenery waiting to be explored during the colder months. <!--more-->Cold season gardening offers a unique opportunity to embrace the beauty of winter-hardy plants and create a stunning landscape that thrives in the chillier temperatures. In this article, we'll delve into the world of cold season gardening, providing expert tips and advice for cultivating a vibrant garden that's perfect for frosty weather.
 

@@ -2,8 +2,10 @@
 layout: post
 title:  "Protect Your Lawn for Winter"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_7.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_7.jpg'
+categories: [indiana, grass, trees, shrubs]
 ---
 As the days grow shorter and temperatures begin to drop, it's time to start thinking about winterizing your lawn. <!--more-->Proper lawn care in the fall can make all the difference in ensuring a healthy and vibrant lawn come springtime. In this comprehensive guide, we'll explore essential tips for protecting your lawn for winter, including lawn maintenance tasks, preventive measures, and expert advice for a lush, green lawn year-round.
 

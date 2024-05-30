@@ -2,8 +2,10 @@
 layout: post
 title:  "Prepare Your Lawn for Winter"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_15.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_15.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 As the days grow shorter and the temperatures begin to drop, it's time to start thinking about preparing your lawn for the winter months ahead. <!--more-->Proper winter lawn care is essential for ensuring that your grass remains healthy and vibrant throughout the colder season and emerges strong and resilient come springtime. In this article, we'll explore essential tips for preparing your lawn for winter, from lawn maintenance tasks to protective measures against the harsh elements.
 1. Keep Mowing, but Adjust the Height

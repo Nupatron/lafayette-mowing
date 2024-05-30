@@ -2,8 +2,10 @@
 layout: post
 title:  "How Lawn Aeration Works"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_12.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_12.jpg'
+categories: [indiana, grass, recreation]
 ---
 Lawn aeration is a vital process in maintaining a healthy and vibrant lawn, yet it's often overlooked by homeowners. <!--more-->By understanding how lawn aeration works, you can unlock the secret to achieving lush, green grass and promoting strong root growth. In this comprehensive guide, we'll delve into the science behind lawn aeration, exploring its benefits, methods, and when to aerate your lawn. Whether you're a seasoned lawn care enthusiast or new to the world of turf management, this guide will equip you with the knowledge you need to elevate your lawn care routine and cultivate a thriving outdoor space.
 

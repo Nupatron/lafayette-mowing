@@ -2,8 +2,10 @@
 layout: post
 title:  "Should I Overseed My Lawn?"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_9.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_9.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Overseeding, the process of spreading grass seed over an existing lawn, is a common practice among homeowners looking to improve the health and appearance of their turf. <!--more-->But is overseeding the right choice for your lawn? In this article, we'll delve into the pros and cons of overseeding, key considerations to keep in mind, and expert tips for achieving successful overseeding results.
 

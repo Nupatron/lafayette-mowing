@@ -2,8 +2,10 @@
 layout: post
 title:  "When Do You Need Pre-emergent Weed Control"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_7.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_7.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Weeds, the bane of any homeowner's existence when it comes to maintaining a pristine lawn. <!--more-->They seem to sprout up out of nowhere, invading the carefully manicured green space you've worked so hard to cultivate. However, there's a proactive solution to this perennial problem: pre-emergent weed control. In this comprehensive guide, we'll explore what pre-emergent weed control is, when you need it, and how it can help you achieve a weed-free lawn that's the envy of the neighborhood.
 

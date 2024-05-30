@@ -2,8 +2,10 @@
 layout: post
 title:  "Keeping Your Lawn Weed-Free in the Cold Months"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_8.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_8.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization]
 ---
 While winter may bring visions of snow-covered landscapes, it doesn't mean your lawn is safe from the clutches of weeds. <!--more-->In fact, many common weeds thrive in the cooler temperatures of winter, taking advantage of weakened grass and bare patches to establish themselves. However, with the right approach, you can wipe out winter weeds and keep your lawn looking its best even when the weather is cold. In this comprehensive guide, we'll explore how to identify and eradicate winter weeds, ensuring your lawn remains healthy and vibrant all year round.
 

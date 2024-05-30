@@ -2,8 +2,10 @@
 layout: post
 title:  "Four Pests That Threaten Your Yard"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_15.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_15.jpg'
+categories: [pests, garden, flowers, recreation]
 ---
 Maintaining a healthy and beautiful yard requires vigilance against a variety of pests that can wreak havoc on your lawn and landscape. <!--more-->From invasive insects to destructive rodents, these pests pose a threat to the health and aesthetics of your outdoor space. In this guide, we'll explore four common pests that threaten your yard, providing valuable insights into their identification, behavior, and effective management strategies. By learning how to recognize and address these lawn invaders, you can protect your yard and preserve its beauty for years to come.
 

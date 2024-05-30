@@ -2,8 +2,10 @@
 layout: post
 title:  "Lawn Maintenance Tips for Lawn Lovers"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_15.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image15.jpg'
+categories: [indiana, grass, fertilization, garden, flowers, recreation]
 ---
 For lawn lovers, there's nothing quite like the sight of a lush, green expanse of turf stretching out before you. <!--more-->A well-maintained lawn not only enhances the beauty of your outdoor space but also provides a comfortable and inviting environment for relaxation, recreation, and socializing. Whether you're a seasoned lawn care enthusiast or just starting out on your journey to lawn perfection, these essential lawn maintenance tips will help you cultivate the perfect outdoor oasis that you can be proud of.
 1. Know Your Grass Type

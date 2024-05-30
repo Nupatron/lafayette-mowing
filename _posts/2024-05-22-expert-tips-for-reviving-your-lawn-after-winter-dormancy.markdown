@@ -2,8 +2,10 @@
 layout: post
 title:  "Expert Tips for Reviving Your Lawn After Winter Dormancy"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_15.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_15.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 After enduring the harsh conditions of winter, your lawn may be looking a bit worse for wear. <!--more-->However, with the right care and attention, you can revive your grass and restore its lush green appearance in time for the warmer months ahead. In this article, we'll share expert tips for rejuvenating your lawn after winter dormancy, helping you achieve a vibrant and healthy landscape that you can enjoy throughout the spring and summer seasons.
 

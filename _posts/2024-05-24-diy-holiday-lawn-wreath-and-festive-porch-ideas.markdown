@@ -2,8 +2,10 @@
 layout: post
 title:  "DIY Holiday Lawn Wreath and Festive Porch Ideas"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_8.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_8.jpg'
+categories: [decoration, curb appeal, garden, flowers, recreation]
 ---
 As the holiday season approaches, it's time to deck the halls and bring festive cheer to every corner of your home—including your outdoor space. <!--more-->Transforming your lawn and porch into a winter wonderland not only spreads holiday joy to your neighbors and passersby but also creates a warm and welcoming atmosphere for guests and loved ones. In this guide, we'll explore a variety of DIY holiday lawn wreath and festive porch ideas to help you spruce up your outdoor space and spread holiday cheer throughout the neighborhood. From homemade wreaths and festive lighting to cozy seating areas and seasonal décor, these ideas will inspire you to create a magical outdoor setting that captures the spirit of the season.
 

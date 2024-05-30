@@ -2,8 +2,10 @@
 layout: post
 title:  "Reviving Dead Grass"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_12.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_12.jpg'
+categories: [indiana, grass, fertilization]
 ---
 A lush, green lawn is a beautiful sight and a source of pride for homeowners. <!--more-->However, various factors like drought, pests, disease, and neglect can turn your vibrant lawn into a patchy, brown eyesore. Reviving dead grass and restoring your lawn to its former glory requires understanding the underlying issues and applying effective restoration techniques. In this comprehensive guide, we'll explore practical tips and strategies to help you bring your lawn back to life.
 

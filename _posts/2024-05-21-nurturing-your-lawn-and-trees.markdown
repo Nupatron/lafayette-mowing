@@ -2,8 +2,10 @@
 layout: post
 title:  "Nurturing Your Lawn and Trees"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_7.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_7.jpg'
+categories: [indiana, grass, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 A well-maintained lawn and healthy trees significantly enhance the aesthetic appeal and value of your property.<!--more--> Achieving this requires tender care, attention to detail, and a commitment to regular maintenance. Here’s a comprehensive guide to nurturing your lawn and trees to keep them vibrant and thriving year-round.
 

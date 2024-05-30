@@ -2,8 +2,10 @@
 layout: post
 title:  "Lawn Sprinkler System Repair"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_11.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_11.jpg'
+categories: [indiana, grass, fertilization, garden, flowers]
 ---
 A properly functioning sprinkler system is essential for maintaining a healthy and vibrant lawn. <!--more-->However, like any other mechanical system, sprinkler systems can experience wear and tear over time, leading to malfunctions, leaks, and inefficiencies. When your sprinkler system is in need of repair, it's crucial to address the issue promptly to prevent further damage and ensure that your lawn receives the water it needs to thrive. In this comprehensive guide, we'll discuss common sprinkler system problems and provide expert solutions for repairing your lawn sprinkler system effectively.
 

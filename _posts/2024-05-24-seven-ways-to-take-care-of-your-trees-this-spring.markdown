@@ -2,8 +2,10 @@
 layout: post
 title:  "7 Ways to Take Care of Your Trees This Spring"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_16.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_16.jpg'
+categories: [indiana, trees, shrubs, pests]
 ---
 Spring is the perfect time to give your trees the care they need to thrive throughout the growing season. <!--more-->From pruning to fertilizing, there are several essential tasks you can undertake to ensure your trees stay healthy and beautiful. In this article, we'll explore seven ways to take care of your trees this spring and promote optimal growth and vitality.
 

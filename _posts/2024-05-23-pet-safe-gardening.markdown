@@ -2,8 +2,10 @@
 layout: post
 title:  "Pet-Safe Gardening"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_9.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_9.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Gardening is a beloved pastime for many homeowners, offering a chance to connect with nature and cultivate beautiful outdoor spaces.<!--more--> However, it's important to ensure that your garden is safe for your furry companions, as many common plants and gardening practices can pose risks to pets. In this article, we'll explore tips and strategies for pet-safe gardening, including pet-friendly plant choices, non-toxic gardening practices, and ways to create a safe and enjoyable outdoor environment for your pets.
 

@@ -2,8 +2,10 @@
 layout: post
 title:  "Plants and Herbs That Mosquitoes Hate"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_6.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_6.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Mosquitoes can quickly turn a relaxing evening in your backyard into an itchy, uncomfortable experience.<!--more--> While chemical insecticides can effectively control mosquito populations, they often come with environmental and health concerns. Fortunately, there are natural alternatives that can help repel mosquitoes and create a more enjoyable outdoor environment. In this article, we'll explore plants and herbs that mosquitoes hate, offering you natural solutions to keep these pesky insects at bay.
 1. Citronella

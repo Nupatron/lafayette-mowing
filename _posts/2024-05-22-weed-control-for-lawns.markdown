@@ -2,8 +2,10 @@
 layout: post
 title:  "Weed Control for Lawns"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_12.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_12.jpg'
+categories: [grass, curb appeal, garden, flowers, recreation]
 ---
 A lush, green lawn is the hallmark of a well-maintained outdoor space, but the presence of weeds can quickly detract from its beauty. <!--more-->Weeds not only compete with grass for water, nutrients, and sunlight but also disrupt the uniform appearance of your lawn. Fortunately, with the right weed control strategies, you can keep your backyard looking its best year-round. In this comprehensive guide, we'll explore effective weed control techniques to help you achieve a weed-free lawn and maintain a beautiful backyard that you'll be proud to show off to family and friends.
 

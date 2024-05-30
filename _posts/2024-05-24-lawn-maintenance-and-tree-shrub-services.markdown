@@ -2,8 +2,10 @@
 layout: post
 title:  "Lawn Maintenance and Tree & Shrub Services"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_6.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_6.jpg'
+categories: [indiana, grass, trees, shrubs, fertilization]
 ---
 Maintaining a beautiful and healthy outdoor space involves more than just caring for your lawn. <!--more-->Trees and shrubs play a vital role in the overall landscape, providing shade, privacy, and aesthetic appeal. In this comprehensive guide, we'll explore the importance of combining lawn maintenance with tree and shrub services to create a harmonious and thriving outdoor environment.
 

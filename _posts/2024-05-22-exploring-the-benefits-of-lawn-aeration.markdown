@@ -2,8 +2,10 @@
 layout: post
 title:  "Exploring the Benefits of Lawn Aeration"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_14.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_14.jpg'
+categories: [indiana, grass]
 ---
 A lush, green lawn is the envy of many homeowners, but achieving and maintaining such a vibrant turf requires more than just regular watering and mowing. <!--more-->Lawn aeration, particularly core aeration, is a vital practice that can significantly improve the health and appearance of your lawn. In this article, we'll explore the numerous benefits of lawn aeration and why core aeration is essential for a thriving, resilient lawn.
 

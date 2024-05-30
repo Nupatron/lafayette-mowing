@@ -2,8 +2,10 @@
 layout: post
 title:  "Paws Off the Grass: Pet Waste Management for a Healthy Lawn"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_15.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_15.jpg'
+categories: [indiana, grass, pests, garden, flowers, recreation]
 ---
 Pets bring joy, companionship, and laughter to our lives, but their waste can pose challenges for maintaining a healthy lawn. <!--more-->Pet waste contains bacteria, parasites, and nutrients that, if not managed properly, can harm your lawn and pose health risks to your family and pets. Effective pet waste management is essential for preserving the beauty and safety of your lawn while ensuring a clean and hygienic outdoor environment. In this comprehensive guide, we'll explore the importance of pet waste management and share practical tips for maintaining a healthy lawn in the presence of furry companions.
 

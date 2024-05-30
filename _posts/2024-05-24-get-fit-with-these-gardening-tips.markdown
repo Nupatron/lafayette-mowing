@@ -2,8 +2,10 @@
 layout: post
 title:  "Get Fit with These Gardening Tips"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_14.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_14.jpg'
+categories: [indiana, garden, flowers, recreation]
 ---
 Gardening isn't just about nurturing plants—it's also a fantastic way to stay active, boost your fitness levels, and connect with nature. <!--more-->As spring approaches and the days grow longer, now is the perfect time to harness the power of gardening to improve your physical health and well-being. In this guide, we'll explore a variety of gardening tips and techniques that not only beautify your outdoor space but also provide a fun and effective way to get fit. From digging and planting to weeding and harvesting, gardening offers a full-body workout that can help you achieve your fitness goals while enjoying the great outdoors.
 

@@ -2,8 +2,10 @@
 layout: post
 title:  "A Guide to Stopping Lawn Mowing for Winter"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_13.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_13.jpg'
+categories: [indiana, grass, decoration]
 ---
 As the days grow shorter and temperatures drop, lawn care routines must adjust to accommodate the changing seasons. <!--more-->Knowing when to stop mowing your lawn for winter is essential for maintaining its health and preparing it for the colder months ahead. In this article, we'll discuss the factors that determine when to cease mowing your lawn, the benefits of doing so, and the steps you can take to ensure your lawn is winter-ready.
 

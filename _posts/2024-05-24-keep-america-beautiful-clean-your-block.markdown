@@ -2,8 +2,10 @@
 layout: post
 title:  "Keep America Beautiful: Clean Your Block"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_6.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_6.jpg'
+categories: [indiana, curb appeal, garden, flowers, recreation]
 ---
 A clean and beautiful neighborhood enhances the quality of life for all its residents. <!--more-->Keeping your block clean not only promotes community pride but also helps protect the environment, boosts property values, and fosters a sense of belonging among neighbors. Whether you're passionate about making a difference or simply want to see your neighborhood thrive, organizing a block clean-up is a powerful way to contribute. Here’s a comprehensive guide on how to clean your block and keep America beautiful.
 

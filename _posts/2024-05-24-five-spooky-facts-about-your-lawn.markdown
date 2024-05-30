@@ -2,8 +2,10 @@
 layout: post
 title:  "5 Spooky Facts About Your Lawn"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_16.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_16.jpg'
+categories: [indiana, grass, curb appeal, garden]
 ---
 While your lawn may seem like a serene and peaceful place, there are some eerie and mysterious phenomena that can occur beneath the surface.<!--more--> In this article, we'll explore five spooky facts about your lawn that may surprise you and shed light on the hidden world of lawn care.
 

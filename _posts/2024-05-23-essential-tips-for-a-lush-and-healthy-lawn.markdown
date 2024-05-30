@@ -2,8 +2,10 @@
 layout: post
 title:  "Essential Tips for a Lush and Healthy Lawn"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_15.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_15.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 As winter fades away and spring arrives, it's time to turn your attention to your lawn and prepare it for the growing season ahead.<!--more--> Spring lawn care sets the foundation for a lush, healthy lawn that will be the envy of the neighborhood throughout the summer months. In this comprehensive guide, we'll cover all the essential steps you need to take to ensure your lawn thrives this spring.
 1. Rake and Remove Debris

@@ -2,8 +2,10 @@
 layout: post
 title:  "Lawn Care Basics: Dealing with Chinch Bugs"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_11.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_11.jpg'
+categories: [indiana, grass, pests, recreation]
 ---
 Maintaining a lush, green lawn requires diligent care and attention, but sometimes, despite our best efforts, pests like chinch bugs can wreak havoc on our outdoor spaces. <!--more-->Chinch bugs are tiny insects that feed on grass blades, causing yellowing, wilting, and ultimately, lawn damage. In this comprehensive guide, we'll delve into the basics of chinch bugs, including identification, prevention, and control methods, to help you protect your lawn and keep it healthy year-round.
 

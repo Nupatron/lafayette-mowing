@@ -2,8 +2,10 @@
 layout: post
 title:  "Mastering Lawn Mowing"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_16.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_16.jpg'
+categories: [indiana, grass, fertilization]
 ---
 Mowing the lawn may seem like a simple task, but there's more to it than meets the eye. <!--more-->A well-manicured lawn can enhance the beauty of your home and create a welcoming outdoor space for you and your family to enjoy. To achieve the best results, it's important to mow your lawn correctly and efficiently. In this comprehensive guide, we'll share essential tips and techniques for mastering the art of lawn mowing.
 1. Set the Right Mowing Height

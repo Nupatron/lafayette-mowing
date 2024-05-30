@@ -2,8 +2,10 @@
 layout: post
 title:  "Pre-emergent is All About Timing"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_16.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_16.jpg'
+categories: [indiana, grass, fertilization]
 ---
 Pre-emergent herbicides are a crucial tool in the battle against weeds in your lawn and garden. <!--more-->Unlike post-emergent herbicides, which target weeds that have already sprouted, preemergent herbicides prevent weed seeds from germinating in the first place. However, the effectiveness of pre-emergent herbicides hinges on proper timing and application techniques. In this article, we'll delve into the importance of timing when using pre-emergent herbicides and provide helpful tips for maximizing their effectiveness in your lawn care routine.
 

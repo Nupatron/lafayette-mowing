@@ -2,8 +2,10 @@
 layout: post
 title:  "Brown Patch, Dollar Spot, and Rust: Your Comprehensive Guide to Lawn Diseases"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_10.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_10.jpg'
+categories: [pests, fertilization]
 ---
 Maintaining a lush, green lawn requires more than just regular mowing and watering.<!--more--> It also involves protecting your turf from various threats, including lawn diseases. Brown patch, dollar spot, and rust are common fungal diseases that can wreak havoc on your lawn if left untreated. In this comprehensive guide, we'll delve into the causes, symptoms, prevention, and treatment options for these three lawn diseases to help you keep your turf healthy and vibrant.
 

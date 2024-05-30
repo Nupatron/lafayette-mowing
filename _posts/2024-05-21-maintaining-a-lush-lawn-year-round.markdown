@@ -2,8 +2,10 @@
 layout: post
 title:  "Maintaining a Lush Lawn Year-Round"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_9.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_9.jpg'
+categories: [indiana, grass, fertilization, decoration, curb appeal]
 ---
 A lush, green lawn is the hallmark of a beautiful home. However, maintaining that vibrant greenery throughout the year can be challenging. <!--more--> With the right strategies and a consistent lawn care routine, you can achieve an "always green" lawn that enhances your property's curb appeal. Here are essential tips to help you maintain a lush lawn year-round.
 

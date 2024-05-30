@@ -2,8 +2,10 @@
 layout: post
 title:  "Preparing Your Lawn for the New Year"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_10.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_10.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 As the calendar turns to a new year, it's the perfect time to set goals for your lawn and take proactive steps to ensure its health and vitality in the months ahead. <!--more-->Whether you're looking to improve the appearance of your lawn, address lingering issues from the previous year, or simply maintain its current state, proper preparation is key. In this article, we'll explore essential tips for preparing your lawn for the new year, helping you achieve a lush, green landscape that you can enjoy year-round.
 

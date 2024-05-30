@@ -2,8 +2,10 @@
 layout: post
 title:  "How to Select the Best Lawn Fertilizer"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_12.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_12.jpg'
+categories: [indiana, grass, fertilization, curb appeal, flowers, recreation]
 ---
 A lush, green lawn is the pride of any homeowner, and selecting the right lawn fertilizer is crucial to achieving this.<!--more--> With numerous options available, choosing the best fertilizer can be daunting. This guide will help you understand the different types of lawn fertilizers and how to select the best one for your specific needs.
 

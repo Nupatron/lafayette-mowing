@@ -2,8 +2,10 @@
 layout: post
 title:  "Mow Like a Pro"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_14.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image14.jpg'
+categories: [indiana, grass, fertilization]
 ---
 Mowing the lawn may seem like a straightforward task, but mastering the art of lawn mowing requires more than just pushing a mower back and forth. <!--more-->With the right techniques and strategies, you can achieve a perfectly manicured lawn that will be the envy of your neighborhood. In this comprehensive guide, we'll share expert tips and advice for mowing your lawn like a pro, ensuring that your yard looks its best all season long.
 1. Choose the Right Mower

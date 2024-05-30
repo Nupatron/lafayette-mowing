@@ -2,8 +2,10 @@
 layout: post
 title:  "How to Maintain a Healthy, Green Lawn"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_15.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_15.jpg'
+categories: [indiana, grass, fertilization]
 ---
 A lush, green lawn is the pride of any homeowner, but achieving and maintaining that vibrant greenery requires consistent care and attention. <!--more-->From proper mowing techniques to effective watering practices, there are several key factors to consider when striving for a healthy lawn. In this comprehensive guide, we'll explore essential tips and strategies for maintaining a healthy, green lawn that you can be proud of.
 1. Mowing Your Lawn Properly

@@ -2,8 +2,10 @@
 layout: post
 title:  "Combating Iron Deficiency in Trees and Shrubs"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_13.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_13.jpg'
+categories: [trees, shrubs, pests, fertilization]
 ---
 Iron deficiency is a common problem that can affect the health and appearance of trees and shrubs, leading to yellowing leaves, stunted growth, and overall decline.<!--more-->Iron is an essential micronutrient that plays a critical role in chlorophyll production and photosynthesis, making it vital for plant health and vitality. When iron levels are insufficient, plants struggle to produce chlorophyll, resulting in the characteristic symptoms of iron deficiency. In this comprehensive guide, we'll explore the causes, symptoms, and effective strategies for combating iron deficiency in trees and shrubs, empowering you to restore the health and vigor of your landscape.
 

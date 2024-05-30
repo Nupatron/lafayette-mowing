@@ -2,8 +2,10 @@
 layout: post
 title:  "Separating Fact from Fiction on Lawn Watering Practices"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_15.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_15.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Watering is one of the most fundamental aspects of lawn care, yet it's also one of the most misunderstood. <!--more-->With a plethora of advice circulating among homeowners, it can be challenging to discern fact from fiction when it comes to watering your lawn. In this article, we'll debunk common lawn watering myths and provide evidence-based insights to help you establish a healthy watering routine for your lawn.
 

@@ -2,8 +2,10 @@
 layout: post
 title:  "How to Host the Ultimate Outdoor Party"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_6.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_6.jpg'
+categories: [decoration, curb appeal, garden, flowers, recreation]
 ---
 Hosting an outdoor party is a fantastic way to bring together friends and family for fun, relaxation, and celebration in the great outdoors. <!--more-->Whether you're planning a casual backyard barbecue, a festive summer soirée, or a special occasion like a birthday or anniversary, creating the ultimate outdoor party requires careful planning, attention to detail, and a dash of creativity. In this guide, we'll share a variety of tips and ideas to help you host a memorable outdoor party that will delight your guests and leave a lasting impression. From setting the scene and planning the menu to organizing entertainment and managing logistics, we've got you covered with everything you need to know to host the ultimate outdoor bash.
 

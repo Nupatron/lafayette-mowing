@@ -2,8 +2,10 @@
 layout: post
 title:  "The Impact of Trees and Shrubs on Your Home's Worth"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_9.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_9.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 When it comes to increasing property value and curb appeal, many homeowners focus on factors like interior renovations and landscaping features.<!--more--> However, one often-overlooked aspect of home improvement is the strategic incorporation of trees and shrubs into the landscape. Trees and shrubs not only beautify your property but can also have a significant impact on its overall value. In this article, we'll explore how trees and shrubs can enhance your property value and provide tips for maximizing their impact on your home's worth.
 

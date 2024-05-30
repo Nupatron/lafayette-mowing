@@ -2,8 +2,10 @@
 layout: post
 title:  "Lawn Care Tips for Backyard Entertainment in Fall"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_10.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_10.jpg'
+categories: [grass, decoration, curb appeal, recreation]
 ---
 As the crisp air of fall sets in and the leaves begin to change color, there's no better time to take advantage of your backyard for outdoor entertainment. <!--more-->Whether you're hosting a cozy gathering with friends or enjoying a quiet evening with family, a well-maintained lawn sets the stage for a memorable outdoor experience. In this article, we'll share valuable lawn care tips to ensure your backyard is ready for entertaining in the fall, from mowing and watering to pest control and outdoor decor.
 

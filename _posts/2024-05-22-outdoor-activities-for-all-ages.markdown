@@ -2,8 +2,10 @@
 layout: post
 title:  "Outdoor Activities for All Ages"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_11.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_11.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 The great outdoors offers a wealth of opportunities for fun and adventure, regardless of age or ability. <!--more-->From energetic youngsters to active seniors, there's something for everyone to enjoy outside, whether it's basking in the sunshine, exploring nature, or engaging in exhilarating outdoor sports. In this article, we'll explore a variety of outdoor activities suitable for all ages, providing inspiration for families, friends, and individuals looking to make the most of their time in the fresh air.
 

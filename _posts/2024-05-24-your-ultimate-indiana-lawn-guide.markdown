@@ -2,9 +2,9 @@
 layout: post
 title:  "Your Ultimate Indiana Lawn Care Guide"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_3.jpg'
+thumbnail: '/images/image_7.jpg'
 excerpt_separator: <!--more-->
-hero_image: '/images/hero_1.jpg'
+hero_image: '/images/image_7.jpg'
 categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 As a homeowner in Indiana, maintaining a healthy and vibrant lawn is essential for enhancing the beauty of your property and enjoying outdoor activities with family and friends. <!--more-->With its diverse climate and soil conditions, Indiana presents unique challenges and opportunities for lawn care enthusiasts. In this comprehensive guide, we'll explore the essential steps and best practices for nurturing turf health in the Hoosier State. From seasonal lawn maintenance tips to region-specific considerations, this guide will help you achieve a lush and resilient lawn that thrives in Indiana's environment.

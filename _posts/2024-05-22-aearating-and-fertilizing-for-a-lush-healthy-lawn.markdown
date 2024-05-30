@@ -2,8 +2,10 @@
 layout: post
 title:  "Aerating and Fertilizing for a Lush, Healthy Lawn"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_12.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_12.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Achieving a lush, healthy lawn requires more than just regular mowing and watering. <!--more-->Aerating and fertilizing are two essential practices that play a crucial role in maintaining soil health, promoting root growth, and ensuring vibrant grass growth. In this comprehensive guide, we'll explore the benefits of aerating and fertilizing your lawn, discuss the best practices for each, and provide tips for incorporating these essential tasks into your lawn care routine.
 

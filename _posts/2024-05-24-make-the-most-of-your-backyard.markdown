@@ -2,8 +2,10 @@
 layout: post
 title:  "Make the Most of Your Backyard"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_8.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_8.jpg'
+categories: [indiana, decoration, curb appeal, garden, flowers, recreation]
 ---
 Your backyard is more than just a patch of grass—it's an extension of your home and a place where memories are made. <!--more-->Whether you're hosting backyard barbecues, playing with your kids, or simply relaxing in the sunshine, your outdoor space has the potential to be a beautiful and functional oasis for you and your family to enjoy. In this article, we'll explore a variety of tips and ideas for making the most of your backyard and creating a stunning outdoor retreat that you'll love spending time in.
 1. Define Your Outdoor Living Areas

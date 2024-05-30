@@ -2,8 +2,10 @@
 layout: post
 title:  "Tips for a Green Christmas"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_8.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_8.jpg'
+categories: [grass, trees, fertilization, decoration, curb appeal, flowers, recreation]
 ---
 As the holiday season approaches, many of us look forward to festive gatherings, gift-giving, and creating cherished memories with loved ones. <!--more-->However, the holiday season can also be a time of excess, with increased energy consumption, waste generation, and environmental impact. This year, why not make a conscious effort to celebrate Christmas in a more sustainable and eco-friendly way? In this guide, we'll explore a variety of tips and practices for embracing a green Christmas, from reducing waste and conserving energy to supporting local businesses and giving back to the community. By making small changes to our holiday traditions, we can all contribute to a brighter, greener future for generations to come.
 

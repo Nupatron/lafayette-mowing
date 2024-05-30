@@ -2,8 +2,10 @@
 layout: post
 title:  "A Comprehensive Guide to Lawn Watering"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_14.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_14.jpg'
+categories: [indiana, grass, curb appeal, garden]
 ---
 Watering is a fundamental aspect of lawn care, yet many homeowners struggle to achieve optimal results due to misconceptions or improper techniques. <!--more-->Proper lawn watering is essential for maintaining lush, green turf and promoting healthy root growth. In this comprehensive guide, we'll delve into the principles of effective lawn watering, including when, how, and how much to water, to help you achieve a vibrant, thriving lawn that's the envy of the neighborhood.
 

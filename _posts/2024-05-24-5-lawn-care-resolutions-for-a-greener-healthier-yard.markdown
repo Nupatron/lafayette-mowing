@@ -2,8 +2,10 @@
 layout: post
 title:  "5 Lawn Care Resolutions for a Greener, Healthier Yard"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_13.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_13.jpg'
+categories: [indiana, grass, fertilization]
 ---
 As the new year approaches, it's the perfect time to reflect on the state of your lawn and set goals for achieving a greener, healthier yard. <!--more-->Whether you're starting from scratch with a new lawn or looking to improve the condition of your existing one, making lawn care resolutions can help you stay on track and achieve your landscaping goals. In this article, we'll discuss five lawn care resolutions to consider for the new year and provide expert tips for achieving them.
 

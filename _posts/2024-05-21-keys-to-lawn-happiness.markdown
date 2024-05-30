@@ -2,8 +2,10 @@
 layout: post
 title:  "Keys to Lawn Happiness"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_10.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_10.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 A lush, green lawn is a source of pride and joy for homeowners. <!--more-->It enhances the beauty of your property, provides a perfect play area for kids and pets, and offers a serene spot for relaxation. Achieving a happy lawn requires attention to several key factors, including soil health, proper watering, mowing practices, and more. Here’s a comprehensive guide to ensuring your lawn remains happy and vibrant throughout the year.
 

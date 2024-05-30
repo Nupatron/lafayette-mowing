@@ -2,8 +2,10 @@
 layout: post
 title:  "Early Spring Garden Guide"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_7.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_7.jpg'
+categories: [curb appeal, garden, flowers, recreation]
 ---
 As winter fades and the first signs of spring emerge, gardeners eagerly anticipate the opportunity to get their hands back in the soil and breathe new life into their outdoor spaces. <!--more-->Early spring is a crucial time for garden preparation and planting, setting the stage for a bountiful and beautiful growing season ahead. In this comprehensive guide, we'll explore essential tips and techniques for cultivating a flourishing garden in the early days of spring. From soil preparation and plant selection to maintenance tasks and seasonal care, this guide will equip you with the knowledge and tools you need to kickstart your garden and nurture it to its full potential.
 

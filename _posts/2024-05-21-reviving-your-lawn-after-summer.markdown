@@ -2,8 +2,10 @@
 layout: post
 title:  "Reviving Your Lawn After Summer"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_11.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_11.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 After enduring the heat, drought, and stress of summer, your lawn may be in need of some tender loving care to restore its health and vitality. <!--more-->The intense heat and dry conditions of summer can take a toll on your grass, leaving it parched, patchy, and lackluster. Fortunately, with the right approach and a little effort, you can revive your lawn and help it recover from the summer blues. In this comprehensive guide, we'll explore effective strategies for rejuvenating your lawn after summer, so you can enjoy a lush, green lawn once again.
 

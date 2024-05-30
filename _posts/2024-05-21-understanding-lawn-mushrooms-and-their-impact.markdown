@@ -2,8 +2,10 @@
 layout: post
 title:  "Understanding Lawn Mushrooms and Their Impact"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_6.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_6.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Lawn mushrooms, those curious fungi that seem to appear overnight in our yards, often spark curiosity and concern among homeowners. <!--more-->While some may find them fascinating, others worry about their impact on the health and appearance of their lawn. In this article, we'll delve into the world of lawn mushrooms, demystifying their presence and exploring their impact on your turf and surrounding environment.
 

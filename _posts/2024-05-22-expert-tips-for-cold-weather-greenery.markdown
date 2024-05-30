@@ -2,8 +2,10 @@
 layout: post
 title:  "Expert Tips for Cold Weather Greenery"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_16.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_16.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 While winter may seem like a time of dormancy for gardens, there are still plenty of opportunities for gardening enthusiasts to enjoy their outdoor spaces and cultivate greenery, even in the colder months. <!--more-->With the right approach and some expert tips, you can keep your garden thriving and add beauty to your winter landscape. In this article, we'll share valuable insights and practical advice for gardening in winter, helping you make the most of your outdoor space even when temperatures drop.
 

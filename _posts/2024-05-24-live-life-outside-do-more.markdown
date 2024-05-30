@@ -2,8 +2,10 @@
 layout: post
 title:  "Live Life Outside: Do More"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_9.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_9.jpg'
+categories: [decoration, curb appeal, garden, flowers, recreation]
 ---
 In today's fast-paced world, it's easy to get caught up in the hustle and bustle of daily life, often leaving little time for the things that truly bring us joy.<!--more--> But amidst the chaos, there's one simple yet powerful solution: spending time outdoors. Whether it's tending to your garden, enjoying a leisurely stroll through the park, or simply relaxing on your patio with a good book, embracing the great outdoors can have a profound impact on your physical, mental, and emotional well-being. In this article, we'll explore the benefits of spending time outside and share practical tips for incorporating outdoor activities into your daily routine.
 

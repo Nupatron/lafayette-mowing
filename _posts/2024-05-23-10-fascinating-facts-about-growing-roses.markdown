@@ -2,8 +2,10 @@
 layout: post
 title:  "10 Fascinating Facts About Growing Roses"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_7.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_7.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Roses are often referred to as the queen of flowers, and for good reason. With their exquisite beauty, captivating fragrance, and rich symbolism, roses have enchanted gardeners and flower enthusiasts for centuries. <!--more-->If you're considering growing roses in your garden or already have a few bushes gracing your landscape, there's always more to learn about these timeless blooms. In this article, we'll explore 10 fascinating facts about growing roses that will deepen your appreciation for these iconic flowers and help you cultivate a thriving rose garden.
 1. Ancient Origins

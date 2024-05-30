@@ -2,8 +2,10 @@
 layout: post
 title:  "Keep Summer Crabgrass Under Control"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_5.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_5.jpg'
+categories: [indiana, grass, fertilization, decoration, curb appeal]
 ---
 Crabgrass is a common summer nuisance for many homeowners.<!--more--> Its rapid growth and invasive nature can quickly turn a beautiful lawn into an unsightly mess. Fortunately, with the right strategies and consistent care, you can keep summer crabgrass under control and maintain a lush, green lawn. This guide will provide you with effective methods to prevent, identify, and eliminate crabgrass.
 

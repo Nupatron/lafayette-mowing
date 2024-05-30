@@ -2,8 +2,10 @@
 layout: post
 title:  "Your Autumn Color Palette"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_14.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_14.jpg'
+categories: [trees, decoration, curb appeal, garden, flowers, recreation]
 ---
 As the vibrant hues of summer fade away, the arrival of autumn brings a stunning array of colors to the landscape. <!--more-->From fiery reds and golden yellows to deep oranges and rustic browns, the autumn color palette transforms gardens and outdoor spaces into breathtaking displays of seasonal beauty. In this article, we'll explore how you can enhance your landscape with fall foliage, from selecting the right plants to creating a harmonious autumn color scheme that will delight the senses and evoke the spirit of the season.
 

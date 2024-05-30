@@ -2,8 +2,10 @@
 layout: post
 title:  "Nutsedge: If You Wait, It's Too Late"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_10.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_10.jpg'
+categories: [indiana, grass, pests, garden]
 ---
 Nutsedge, also known as nutgrass or watergrass, is a persistent and troublesome weed that can quickly take over lawns if left unchecked. <!--more-->Its rapid growth, resistance to many herbicides, and ability to thrive in wet or poorly drained soil make it a formidable opponent for homeowners seeking a lush, weed-free lawn. In this article, we'll delve into the characteristics of nutsedge, the damage it can cause to your lawn, and effective strategies for prevention and control.
 

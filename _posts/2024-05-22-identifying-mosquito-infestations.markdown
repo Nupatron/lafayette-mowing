@@ -2,8 +2,10 @@
 layout: post
 title:  "Identifying Mosquito Infestations"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_12.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_12.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Mosquitoes are not only irritating pests; they can also pose significant health risks to humans and animals by transmitting diseases such as West Nile virus, Zika virus, and malaria. <!--more-->Identifying signs of mosquito infestation early is crucial for implementing effective control measures and protecting yourself and your loved ones from bites and potential illness. In this article, we'll discuss three key signs of mosquito infestation to watch for in and around your home, helping you take proactive steps to mitigate the problem and enjoy a mosquito-free environment.
 

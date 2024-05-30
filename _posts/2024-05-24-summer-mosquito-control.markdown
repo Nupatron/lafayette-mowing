@@ -2,8 +2,10 @@
 layout: post
 title:  "Summer Mosquito Control"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_14.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_14.jpg'
+categories: [indiana, grass, pests, decoration, flowers, recreation]
 ---
 Summer is the season of outdoor fun—backyard barbecues, picnics in the park, and evenings spent relaxing on the patio. <!--more-->But nothing can ruin a good time faster than pesky mosquitoes buzzing around, leaving itchy bites and spreading disease. Fortunately, with the right mosquito control strategies, you can protect your outdoor fun in the sun and enjoy the great outdoors mosquito-free. In this article, we'll explore the importance of mosquito control and share expert tips and advice for keeping these unwanted pests at bay.
 

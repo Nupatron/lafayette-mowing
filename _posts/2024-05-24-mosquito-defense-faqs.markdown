@@ -2,8 +2,10 @@
 layout: post
 title:  "Mosquito Defense FAQs"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_15.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_15.jpg'
+categories: [indiana, pests, flowers, recreation]
 ---
 Mosquitoes are not only annoying; they also pose a significant health risk, transmitting diseases such as West Nile virus, Zika virus, and dengue fever.<!--more--> As summer approaches and outdoor activities ramp up, it's essential to arm yourself with the knowledge and tools needed to defend against these pesky pests. In this comprehensive guide, we'll answer some frequently asked questions about mosquito defense and share expert tips and strategies for keeping mosquitoes at bay.
 1. What Attracts Mosquitoes to My Yard?

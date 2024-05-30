@@ -2,8 +2,10 @@
 layout: post
 title:  "Innovative Ideas for Outdoor Living Spaces"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_10.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_10.jpg'
+categories: [indiana, decoration, curb appeal]
 ---
 In recent years, outdoor living spaces have become an integral part of modern home design, providing a seamless transition between indoor comfort and outdoor enjoyment. <!--more-->From cozy patios to expansive decks, homeowners are increasingly seeking innovative ideas to enhance their outdoor living areas and create inviting spaces for relaxation, entertainment, and socializing. In this article, we'll explore some creative and innovative ideas for outdoor living spaces that will elevate your outdoor experience and transform your backyard into a true oasis of comfort and style.
 

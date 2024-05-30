@@ -2,8 +2,10 @@
 layout: post
 title:  "Myth-Busting: Keeping Your Lawn Well-Watered"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_13.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_13.jpg'
+categories: [indiana, grass, curb appeal, garden]
 ---
 Maintaining a lush, green lawn requires proper watering, but there are many misconceptions and myths surrounding lawn watering practices. <!--more-->From how much to water to when to water, it's essential to separate fact from fiction to ensure your lawn stays healthy and vibrant. In this article, we'll debunk common myths about keeping your lawn well-watered and provide expert tips for achieving optimal watering practices.
 

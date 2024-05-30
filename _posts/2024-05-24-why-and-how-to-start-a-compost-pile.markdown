@@ -2,8 +2,10 @@
 layout: post
 title:  "Why and How to Start a Compost Pile"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_14.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_14.jpg'
+categories: [grass, trees, fertilization]
 ---
 Composting is a simple and eco-friendly way to recycle organic waste from your kitchen and yard into nutrient-rich soil amendment for your garden.<!--more--> By starting a compost pile, you can divert organic materials from landfills, reduce greenhouse gas emissions, and enrich your soil with valuable nutrients, all while creating a sustainable and closed-loop system in your own backyard. In this guide, we'll explore the reasons why you should start a compost pile and provide step-by-step instructions on how to get started. From choosing a location and selecting materials to managing your compost pile and troubleshooting common issues, you'll learn everything you need to know to turn kitchen scraps into black gold for your garden.
 

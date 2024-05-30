@@ -2,8 +2,10 @@
 layout: post
 title:  "Effective Strategies for Keeping Your Lawn Mosquito-Free"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_13.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_13.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 As the weather warms and outdoor activities beckon, there's one unwelcome guest that can quickly put a damper on your enjoyment: mosquitoes. <!--more-->Not only are these pesky insects a nuisance, but they can also transmit serious diseases such as West Nile virus and Zika virus. Fortunately, with the right strategies, you can defend your lawn against mosquitoes and create a more enjoyable outdoor environment for you and your family. In this comprehensive guide, we'll explore effective mosquito defense tactics to help you reclaim your yard and enjoy the great outdoors without the threat of bites and disease.
 

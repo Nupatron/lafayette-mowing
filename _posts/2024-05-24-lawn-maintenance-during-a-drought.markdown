@@ -2,8 +2,10 @@
 layout: post
 title:  "Lawn Maintenance During a Drought"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_16.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_16.jpg'
+categories: [indiana, grass, fertilization, curb appeal, garden]
 ---
 Drought conditions can pose significant challenges for homeowners striving to maintain a lush and healthy lawn.<!--more--> With limited water resources and scorching temperatures, it's essential to adjust your lawn care practices to ensure the survival of your turf during dry periods. In this comprehensive guide, we'll explore effective strategies for lawn maintenance during a drought to help you preserve your lawn's health and appearance.
 

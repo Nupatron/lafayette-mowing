@@ -2,8 +2,10 @@
 layout: post
 title:  "National Pollinator Week"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_12.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_12.jpg'
+categories: [indiana, grass, trees, shrubs, decoration, curb appeal, garden, flowers, recreation]
 ---
 Every year, National Pollinator Week serves as a reminder of the vital role that pollinators play in our ecosystem. <!--more-->From bees and butterflies to birds and bats, pollinators are responsible for pollinating a significant portion of the world's crops and wild plants, making them essential for food production and biodiversity. In this article, we'll explore the importance of pollinators, why National Pollinator Week is significant, and how you can get involved in supporting pollinator conservation efforts.
 

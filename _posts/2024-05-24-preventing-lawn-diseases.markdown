@@ -2,8 +2,10 @@
 layout: post
 title:  "Preventing Lawn Diseases"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_8.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_8.jpg'
+categories: [indiana, grass, pests, fertilization, curb appeal, garden]
 ---
 Lawn diseases can wreak havoc on the health and appearance of your turf, causing discoloration, thinning, and even death of grass.<!--more--> Preventing these diseases is key to maintaining a lush, green lawn that enhances the beauty of your property and provides a safe and enjoyable outdoor space for your family and pets. In this guide, we'll explore a variety of strategies for preventing lawn diseases, from cultural practices and proper lawn care to early detection and treatment. By following these tips, you can protect your turf from common lawn diseases and ensure that your lawn remains healthy and vibrant year-round.
 

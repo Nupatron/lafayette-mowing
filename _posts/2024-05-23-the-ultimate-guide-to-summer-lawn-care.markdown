@@ -2,8 +2,10 @@
 layout: post
 title:  "The Ultimate Guide to Summer Lawn Care"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_6.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_6.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 As the temperatures rise and the sun shines bright, it's time to shift your lawn care routine to ensure your yard remains healthy and vibrant throughout the summer months.<!--more--> With a few simple strategies and proactive measures, you can keep your lawn looking its best even in the hottest weather. In this comprehensive guide to summer lawn care, we'll explore essential tips and techniques to help you maintain a lush and green lawn all season long.
 1. Proper Watering

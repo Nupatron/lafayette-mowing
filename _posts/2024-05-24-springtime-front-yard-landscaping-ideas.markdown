@@ -2,8 +2,10 @@
 layout: post
 title:  "Springtime Front Yard Landscaping Ideas"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_15.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_15.jpg'
+categories: [grass, trees, shrubs, decoration, curb appeal, flowers, recreation]
 ---
 As the spring season brings new life and vibrant colors to the outdoors, it's the perfect time to rejuvenate your front yard and create a welcoming landscape that reflects the beauty of the season.<!--more--> From colorful flowers to lush greenery, there are countless ways to enhance your outdoor space and boost curb appeal. In this guide, we'll explore a variety of springtime front yard landscaping ideas to inspire your next outdoor project. Whether you're looking to add seasonal blooms, create inviting pathways, or incorporate sustainable elements, these ideas will help you transform your front yard into a blooming oasis that delights the senses and impresses visitors.
 

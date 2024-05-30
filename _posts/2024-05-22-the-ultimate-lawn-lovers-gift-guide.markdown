@@ -2,8 +2,10 @@
 layout: post
 title:  "The Ultimate Lawn Lover's Gift Guide"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_7.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_7.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 For the lawn lover in your life, nothing beats receiving a gift that enhances their passion for maintaining a lush, green paradise right outside their door. <!--more-->Whether they're a seasoned gardener or a novice enthusiast, finding the perfect gift to complement their lawn care routine can bring joy and inspiration. In this comprehensive gift guide, we'll explore a variety of thoughtful ideas for the ultimate lawn lover's gift, from practical tools and accessories to unique experiences that will elevate their outdoor oasis.
 

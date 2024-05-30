@@ -2,8 +2,10 @@
 layout: post
 title:  "Red Thread Lawn Disease: Signs, Symptoms, and How to Combat It"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_12.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_12.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Maintaining a healthy, green lawn is a source of pride for many homeowners, but even the most well-tended lawns can fall victim to lawn diseases. <!--more-->One common lawn disease that can wreak havoc on your turf is Red Thread. Recognizing the signs and symptoms of Red Thread, understanding its causes, and knowing how to effectively combat it are essential for preserving the health and beauty of your lawn. In this comprehensive guide, we'll explore everything you need to know about Red Thread lawn disease, from identification to prevention and treatment.
 

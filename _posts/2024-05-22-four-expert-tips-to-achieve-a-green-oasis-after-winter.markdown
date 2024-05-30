@@ -2,8 +2,10 @@
 layout: post
 title:  "Four Expert Tips to Achieve a Green Oasis After Winter"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_8.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_8.jpg'
+categories: [indiana, grass, trees, curb appeal, garden, flowers, recreation]
 ---
 After a long winter, your lawn may be looking worse for wear, with patches of brown grass and signs of winter damage. <!--more-->However, with the right approach and a little TLC, you can revive your lawn and transform it into a vibrant green oasis once again. In this article, we'll share four expert tips to help you achieve a lush, green lawn after winter, ensuring your outdoor space is ready to impress.
 

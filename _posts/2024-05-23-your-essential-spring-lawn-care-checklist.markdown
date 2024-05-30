@@ -2,8 +2,10 @@
 layout: post
 title:  "Your Essential Spring Lawn Care Checklist"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_15.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_15.jpg'
+categories: [indiana, grass, curb appeal, garden, flowers, recreation]
 ---
 As the days grow longer and temperatures begin to rise, spring presents the perfect opportunity to rejuvenate your lawn after the harsh conditions of winter. <!--more-->A well-executed spring lawn care routine can set the stage for a season of healthy growth, vibrant color, and lush greenery. To help you achieve a beautiful and thriving lawn, we've compiled a comprehensive spring lawn care checklist. Follow these essential steps to ensure your lawn is in prime condition for the months ahead.
 1. Remove Debris

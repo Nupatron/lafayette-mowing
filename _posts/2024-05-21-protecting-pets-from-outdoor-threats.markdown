@@ -2,8 +2,10 @@
 layout: post
 title:  "Protecting Pets from Outdoor Threats"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_14.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_14.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 As a pet owner, ensuring the safety and well-being of your furry companions while they enjoy the outdoors is a top priority. <!--more-->While your lawn can be a delightful playground for pets, it also harbors potential threats that could harm them. From toxic plants to harmful pests, numerous outdoor hazards require your attention. In this comprehensive guide, we’ll explore the various outdoor threats to pets and provide practical tips for creating a safe and enjoyable yard for your four-legged friends.
 

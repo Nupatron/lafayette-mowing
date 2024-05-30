@@ -2,8 +2,10 @@
 layout: post
 title:  "How to Get Green Grass for Your Wedding"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_7.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_7.jpg'
+categories: [indiana, grass, fertilization, decoration, curb appeal, recreation]
 ---
 Your wedding day is a once-in-a-lifetime celebration, and every detail—from the flowers to the décor—plays a crucial role in creating a memorable and magical event. <!--more-->One often-overlooked aspect of wedding planning is the condition of the venue's lawn, which serves as the backdrop for your special day. Whether you're exchanging vows in a lush garden, a rustic barnyard, or a scenic outdoor venue, having green, vibrant grass sets the stage for a picture-perfect ceremony and reception. In this guide, we'll explore a variety of tips and techniques for achieving lush, green grass for your wedding, ensuring that your outdoor space looks its best and leaves a lasting impression on you and your guests.
 

@@ -2,8 +2,10 @@
 layout: post
 title:  "Protecting Trees and Shrubs"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_13.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_13.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Winter can be a challenging time for trees and shrubs. Cold temperatures, heavy snow, ice, and fluctuating weather conditions can cause significant damage.<!--more--> However, with proper care and preparation, you can protect your plants from winter injury. This guide provides comprehensive tips and strategies to safeguard your trees and shrubs, ensuring they remain healthy and vibrant come spring.
 

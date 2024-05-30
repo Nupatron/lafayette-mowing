@@ -2,8 +2,10 @@
 layout: post
 title:  "Identifying and Managing Six Common Pests That Threaten Your Lawn's Health"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_11.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_11.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 A beautiful, healthy lawn is the pride of any homeowner, but it can be easily threatened by various pests that lurk beneath the surface. <!--more-->These pests can cause extensive damage to your grass, leading to unsightly brown patches, thinning turf, and even complete lawn destruction if left unchecked. In this article, we'll explore six common pests that may be harming your lawn, how to identify them, and effective strategies for managing their populations to preserve your lawn's health and vitality.
 1. Grubs

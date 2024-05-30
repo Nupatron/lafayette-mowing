@@ -2,8 +2,10 @@
 layout: post
 title:  "Winterizing Your Lawn Mower for Storage"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_15.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_15.jpg'
+categories: [indiana, grass, decoration, curb appeal]
 ---
 As winter approaches, it's time to prepare your lawn mower for the off-season. <!--more-->Properly winterizing your lawn mower ensures it remains in excellent condition and ready for action when spring arrives. Neglecting this important maintenance task can lead to rust, engine problems, and a shortened lifespan for your mower. In this comprehensive guide, we'll walk you through the steps to winterize your lawn mower for storage, ensuring it stays in top shape through the colder months.
 

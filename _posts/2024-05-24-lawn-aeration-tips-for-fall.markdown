@@ -2,8 +2,10 @@
 layout: post
 title:  "Lawn Aeration Tips for Fall"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_12.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_12.jpg'
+categories: [indiana, grass, fertilization, curb appeal]
 ---
 Fall is a pivotal time for lawn care enthusiasts, marking the transition from the warmth of summer to the chill of winter. <!--more-->Among the essential tasks for fall lawn care, aerating your lawn stands out as a crucial step in ensuring its health and vitality. In this comprehensive guide, we'll explore the importance of lawn aeration in the fall, provide valuable tips for successful aeration, and help you achieve a lush, green lawn that will be the envy of the neighborhood.
 

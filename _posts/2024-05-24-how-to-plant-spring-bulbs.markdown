@@ -2,8 +2,10 @@
 layout: post
 title:  "How to Plant Spring Bulbs"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_13.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_13.jpg'
+categories: [decoration, curb appeal, garden, flowers, recreation]
 ---
 Spring bulbs are a delightful way to bring a burst of color and life to your garden after a long winter. <!--more-->With the right preparation and care, you can enjoy a beautiful display of flowers like tulips, daffodils, and crocuses. This guide will walk you through the essential steps for planting spring bulbs, ensuring a successful and vibrant bloom.
 1. Choose the Right Bulbs

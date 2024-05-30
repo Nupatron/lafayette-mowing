@@ -2,8 +2,10 @@
 layout: post
 title:  "Is That Spot in My Yard Some Sort of Lawn Fungus?"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_7.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_7.jpg'
+categories: [indiana, grass, pests, curb appeal]
 ---
 If you’ve noticed mysterious spots appearing on your lawn, you might be dealing with a lawn fungus. <!--more-->These unsightly patches can be frustrating for any homeowner, and identifying the cause is the first step toward effective treatment. In this comprehensive guide, we will explore how to determine if the spots in your yard are caused by a lawn fungus and what you can do to treat and prevent these issues.
 

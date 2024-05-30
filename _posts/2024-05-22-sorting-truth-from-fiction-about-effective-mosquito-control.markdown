@@ -2,8 +2,10 @@
 layout: post
 title:  "Sorting Truth from Fiction about Effective Mosquito Control"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_14.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_14.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Mosquitoes are not just pesky insects; they can also pose significant health risks by transmitting diseases such as West Nile virus, Zika virus, and Dengue fever. <!--more-->With mosquito season in full swing, it's essential to separate fact from fiction when it comes to controlling these blood-sucking pests. In this article, we'll debunk common mosquito myths and provide evidence-based insights to help you effectively manage mosquito populations in your outdoor space.
 

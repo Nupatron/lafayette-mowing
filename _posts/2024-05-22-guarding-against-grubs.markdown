@@ -2,8 +2,10 @@
 layout: post
 title:  "Guarding Against Grubs"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_6.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_6.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Grubs are a common lawn pest that can wreak havoc on your turf if left unchecked. <!--more-->These voracious larvae feed on grass roots, causing brown patches and thinning areas that detract from the beauty and health of your lawn. Fortunately, with proper prevention and control measures, you can guard against grubs and maintain a lush and vibrant lawn. In this article, we'll explore essential tips for preventing and controlling grubs to keep your lawn healthy and thriving.
 

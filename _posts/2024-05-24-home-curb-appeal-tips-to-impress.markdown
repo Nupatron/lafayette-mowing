@@ -2,8 +2,10 @@
 layout: post
 title:  "Home Curb Appeal Tips to Impress"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_13.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_13.jpg'
+categories: [decoration, curb appeal, recreation]
 ---
 Your home's curb appeal sets the stage for the overall impression it makes on visitors, passersby, and potential buyers. <!--more-->A well-maintained and visually appealing exterior not only enhances the beauty of your property but also adds value and allure to your home. Whether you're looking to sell your home or simply want to make a great first impression, investing in curb appeal is a worthwhile endeavor. In this guide, we'll explore a variety of home curb appeal tips to help you impress guests and elevate the charm of your home's exterior. From landscaping and exterior maintenance to architectural details and decorative accents, these tips will inspire you to create a welcoming and attractive facade that reflects your personal style and enhances your home's curb appeal.
 

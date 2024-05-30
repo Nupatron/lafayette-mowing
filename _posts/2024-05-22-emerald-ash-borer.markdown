@@ -2,8 +2,10 @@
 layout: post
 title:  "Emerald Ash Borer"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_12.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_12.jpg'
+categories: [indiana, pests]
 ---
 The emerald ash borer (EAB), an invasive beetle native to Asia, has become one of the most destructive pests to North American ash trees (Fraxinus spp.). <!--more-->Since its discovery in Michigan in 2002, the emerald ash borer has spread rapidly, infesting ash trees across the United States and Canada. In this article, we'll explore the threats posed by the emerald ash borer, how to identify infestations, and strategies for managing and protecting ash trees from this devastating pest.
 

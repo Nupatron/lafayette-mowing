@@ -2,8 +2,10 @@
 layout: post
 title:  "Lawn Fertilization FAQs"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_9.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_9.jpg'
+categories: [indiana, grass, fertilization, recreation]
 ---
 Fertilizing your lawn is a crucial aspect of lawn care that often raises many questions among homeowners. <!--more-->From understanding the types of fertilizers to knowing when and how to apply them, there's a lot to consider when it comes to keeping your turf healthy and vibrant. In this comprehensive guide, we'll address some of the most common questions about lawn fertilization to help you achieve the lush, green lawn of your dreams.
 1. What Are the Benefits of Lawn Fertilization?

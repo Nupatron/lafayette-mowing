@@ -2,8 +2,10 @@
 layout: post
 title:  "What is Overseeding a Lawn"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_10.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_10.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Maintaining a lush, vibrant lawn is a goal for many homeowners, but over time, grass can become thin, patchy, and worn out due to factors like foot traffic, pests, diseases, and environmental stressors. <!--more-->If your lawn is showing signs of wear and tear, overseeding might be the solution you need to rejuvenate your turf and restore its health and beauty. In this comprehensive guide, we'll explore what overseeding a lawn entails, its benefits, and how you can effectively implement this technique to achieve a thicker, healthier lawn.
 

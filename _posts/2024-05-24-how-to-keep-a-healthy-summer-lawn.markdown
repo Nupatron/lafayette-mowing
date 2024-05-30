@@ -2,8 +2,10 @@
 layout: post
 title:  "How to Keep a Healthy Summer Lawn"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_16.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_16.jpg'
+categories: [indiana, grass, fertilization, decoration, curb appeal]
 ---
 Maintaining a healthy lawn during the summer months can be challenging, especially when faced with scorching temperatures, drought conditions, and increased pest and disease pressure.<!--more--> However, with the right care and attention, it's possible to keep your lawn looking lush, green, and vibrant throughout the summer season. In this guide, we'll share essential tips and techniques for maintaining a healthy summer lawn, from proper watering and mowing to pest control and soil management. By following these strategies, you can ensure that your lawn remains resilient and beautiful even in the heat of summer.
 

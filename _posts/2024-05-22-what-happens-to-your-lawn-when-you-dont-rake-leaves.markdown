@@ -2,8 +2,10 @@
 layout: post
 title:  "What Happens to Your Lawn When You Don't Rake Leaves"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_11.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_11.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Raking leaves may seem like a tedious chore, but it plays a crucial role in maintaining a healthy and vibrant lawn. <!--more-->When leaves are left to accumulate on your lawn, they can cause a host of problems that affect the overall health and appearance of your turf. In this article, we'll explore the consequences of neglecting to rake leaves and the impact it can have on your lawn's health and vitality. By understanding these effects, you can take proactive steps to protect your lawn and ensure it thrives year-round.
 

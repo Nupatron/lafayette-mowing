@@ -2,8 +2,10 @@
 layout: post
 title:  "Comprehensive Tree and Shrub Care"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_16.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_16.jpg'
+categories: [trees, shrubs, fertilization, curb appeal]
 ---
 A lush, vibrant landscape isn't just about the lawn—it's also about the trees and shrubs that add structure, beauty, and shade to your outdoor space. <!--more-->However, caring for trees and shrubs requires more than just occasional pruning and watering. To ensure the health and longevity of your landscape plants, it's important to follow a comprehensive care regimen tailored to their specific needs. In this guide, we'll outline the essential steps for tree and shrub care, helping you create a thriving outdoor oasis that enhances the beauty and value of your property.
 1. Plant Selection and Placement

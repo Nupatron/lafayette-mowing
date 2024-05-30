@@ -2,8 +2,10 @@
 layout: post
 title:  "Lawn Mowing Tips"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_13.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_13.jpg'
+categories: [indiana, grass, fertilization, curb appeal, flowers, recreation]
 ---
 Mowing the lawn may seem like a straightforward task, but it plays a crucial role in maintaining the health and appearance of your turf. <!--more-->Proper mowing techniques not only promote lush, green growth but also help prevent weeds, pests, and diseases. In this comprehensive guide, we'll share expert lawn mowing tips to help you achieve a healthy and beautiful lawn that you can be proud of.
 1. Set the Right Mowing Height

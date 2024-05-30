@@ -2,8 +2,10 @@
 layout: post
 title:  "How to Keep Bugs Away from Your Outdoor Wedding"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_14.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_14.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Outdoor weddings offer a picturesque backdrop for tying the knot, with lush greenery, blooming flowers, and open skies creating a romantic ambiance. <!--more-->However, one potential downside of outdoor celebrations is the presence of pesky bugs that can put a damper on the festivities. From mosquitoes and flies to gnats and ants, unwanted insects can quickly become unwelcome guests at your wedding. In this article, we'll explore effective strategies for keeping bugs away from your outdoor wedding, ensuring a pest-free and enjoyable celebration for you and your guests.
 

@@ -2,8 +2,10 @@
 layout: post
 title:  "Raking vs. Mulching Leaves"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_16.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_16.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 As autumn approaches, the sight of fallen leaves blanketing lawns becomes a common occurrence. <!--more-->While picturesque, these leaves can pose a dilemma for homeowners: should you rake them up or mulch them into your lawn? In this article, we'll explore the pros and cons of both raking and mulching leaves, helping you make an informed decision about the best approach for maintaining the health and appearance of your lawn.
 

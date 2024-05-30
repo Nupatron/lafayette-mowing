@@ -2,8 +2,10 @@
 layout: post
 title:  "The Best and Safest Holiday Decorations for Your Outdoor Space"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_7.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_7.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 The holiday season is a time for festive decorations and joyful celebrations, and what better way to spread cheer than by decorating your lawn? <!--more-->However, when it comes to outdoor decorations, safety should always be a top priority. From twinkling lights to whimsical inflatables, there are countless options for holiday lawn decorations, but not all are created equal in terms of safety. In this guide, we'll explore some of the best and safest holiday lawn decorations to help you create a magical outdoor display without compromising safety.
 1. LED Lights

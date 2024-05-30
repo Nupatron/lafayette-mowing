@@ -2,8 +2,10 @@
 layout: post
 title:  "Lawn Fertilizer 101"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_8.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_8.jpg'
+categories: [indiana, grass, fertilization, curb appeal]
 ---
 Fertilizing your lawn is a fundamental aspect of lawn care that can significantly impact the health, appearance, and vitality of your turf. <!--more-->However, with so many options available on the market, choosing the right fertilizer and understanding how to apply it can be overwhelming for homeowners. In this comprehensive guide to lawn fertilizer, we'll cover everything you need to know to nourish your lawn effectively and achieve the lush, green turf you desire.
 ## Understanding Lawn Fertilizer

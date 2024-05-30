@@ -2,8 +2,10 @@
 layout: post
 title:  "Essential Spring Lawn Maintenance Tips for a Vibrant Yard"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_9.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_9.jpg'
+categories: [indiana, grass, trees, curb appeal, garden, flowers, recreation]
 ---
 As the chilly grip of winter loosens its hold and the promise of spring beckons, it's time to turn our attention to our outdoor spaces, particularly our lawns. <!--more-->Spring is a crucial time for lawn care, setting the stage for a lush and healthy yard throughout the warmer months ahead. In this article, we'll explore a collection of spring lawn maintenance tips to help you achieve a lucky lawn that's the envy of the neighborhood.
 

@@ -2,8 +2,10 @@
 layout: post
 title:  "Preparing Your Trees and Shrubs for Winter"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_9.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_9.jpg'
+categories: [trees, shrubs, recreation]
 ---
 As the temperatures drop and winter approaches, it's essential to take steps to protect your trees and shrubs from the harsh conditions ahead. <!--more-->Overwintering, or winterizing, your plants ensures they emerge from the cold season healthy and ready to thrive come spring. In this guide, we'll discuss essential tips for overwintering your trees and shrubs, helping you safeguard your landscape investment and maintain a vibrant outdoor space year-round.
 1. Assess Plant Health

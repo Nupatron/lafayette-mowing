@@ -2,8 +2,10 @@
 layout: post
 title:  "Battling Armyworms"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_9.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_9.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Armyworms, the voracious pests known for their destructive feeding habits, can wreak havoc on lawns and landscapes if left unchecked. <!--more-->These caterpillars, named for their tendency to march in large groups and devour everything in their path, pose a significant threat to the health and appearance of your lawn. In this comprehensive guide, we'll explore everything you need to know about armyworms, from identifying their presence to implementing effective treatment strategies and restoring your lawn to its former glory.
 

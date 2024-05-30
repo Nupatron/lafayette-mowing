@@ -2,8 +2,10 @@
 layout: post
 title:  "Effective Methods for Broadleaf Weed Control"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_6.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_6.jpg'
+categories: [pests, curb appeal, garden]
 ---
 Broadleaf weeds can quickly invade your lawn, detracting from its beauty and vitality and competing with grass for nutrients, water, and sunlight.<!--more--> Effectively controlling broadleaf weeds requires a combination of preventative measures, cultural practices, and targeted treatments to eradicate existing weeds and prevent future infestations. In this article, we'll explore effective methods for broadleaf weed control that will help you maintain a healthy, lush lawn you can be proud of.
 

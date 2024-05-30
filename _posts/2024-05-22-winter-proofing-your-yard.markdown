@@ -2,8 +2,10 @@
 layout: post
 title:  "Winter-Proofing Your Yard"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_15.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_15.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 As the temperatures drop and the days grow shorter, it's time to start thinking about winterizing your yard to protect it from the harsh conditions ahead. <!--more-->From freezing temperatures and snowfall to ice and wind, winter weather can take a toll on your outdoor space if it's not adequately prepared. In this comprehensive guide, we'll share essential tips to help you protect your yard and ensure it emerges from winter in top condition.
 1. Clean Up

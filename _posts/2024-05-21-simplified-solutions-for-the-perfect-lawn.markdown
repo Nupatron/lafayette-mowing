@@ -2,8 +2,10 @@
 layout: post
 title:  "Simplified Solutions for the Perfect Lawn"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_10.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_10.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Achieving a perfect lawn doesn't have to be a daunting task. <!--more-->With the right approach and simple, effective solutions, you can transform your yard into a lush, green paradise. This comprehensive guide will provide you with essential tips and techniques to simplify lawn care, ensuring a healthy and beautiful lawn all year round.
 ## Soil Preparation: The Foundation of a Perfect Lawn

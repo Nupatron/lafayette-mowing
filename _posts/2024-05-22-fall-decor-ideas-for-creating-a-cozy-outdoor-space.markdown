@@ -2,8 +2,10 @@
 layout: post
 title:  "Fall Decor Ideas for Creating a Cozy Outdoor Space"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_11.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_11.jpg'
+categories: [indiana, decoration, curb appeal, garden, flowers, recreation]
 ---
 As the leaves begin to change and the air turns crisp, it's time to embrace the beauty of fall and transform your outdoor patio into a cozy retreat that's perfect for relaxing, entertaining, and enjoying the season's splendor.<!--more--> With a few simple decor touches and creative ideas, you can infuse your patio with warmth, charm, and autumnal ambiance that will delight family and guests alike. In this article, we'll explore a variety of fall decor ideas to help you create a welcoming and cozy outdoor space that celebrates the beauty of the season.
 

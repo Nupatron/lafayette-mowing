@@ -2,8 +2,10 @@
 layout: post
 title:  "Protecting Your Investment: Tree and Shrub Care Essentials"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_13.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_13.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Trees and shrubs are not just decorative elements of your landscape; they are valuable investments that enhance the beauty and value of your property. <!--more-->Proper care and maintenance are essential to ensure the health, vitality, and longevity of your trees and shrubs. In this comprehensive guide, we'll explore the key aspects of tree and shrub care, from planting and watering to pruning and pest control, helping you protect your investment and enjoy a thriving landscape for years to come.
 1. Planting

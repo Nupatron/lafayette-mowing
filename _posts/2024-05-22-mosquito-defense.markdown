@@ -2,8 +2,10 @@
 layout: post
 title:  "Mosquito Defense"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_13.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_13.jpg'
+categories: [pests, recreation]
 ---
 Mosquitoes—they're the unwelcome guests that can turn a relaxing evening in your backyard into an itchy, irritating experience. <!--more-->Not only are their bites annoying, but mosquitoes can also transmit diseases such as West Nile virus, Zika virus, and dengue fever. Fortunately, with the right mosquito defense strategies, you can reclaim your outdoor space and enjoy a mosquito-free environment. In this comprehensive guide, we'll explore effective mosquito defense techniques to help you keep these pesky insects at bay and enjoy your outdoor haven to the fullest.
 

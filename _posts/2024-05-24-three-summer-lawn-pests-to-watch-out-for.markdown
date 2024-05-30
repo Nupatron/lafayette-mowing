@@ -2,8 +2,10 @@
 layout: post
 title:  "3 Summer Lawn Pests to Watch Out For"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_9.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_9.jpg'
+categories: [pests, grass]
 ---
 As the summer season heats up, so does the activity of lawn pests that can wreak havoc on your lawn's health and appearance.<!--more--> Identifying and addressing these pests promptly is crucial to maintaining a lush and vibrant lawn. In this article, we'll highlight three common summer lawn pests to watch out for and provide tips on how to prevent and control them to keep your lawn looking its best.
 

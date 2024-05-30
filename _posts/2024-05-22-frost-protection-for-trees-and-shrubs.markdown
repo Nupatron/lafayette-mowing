@@ -2,8 +2,10 @@
 layout: post
 title:  "Frost Protection for Trees and Shrubs"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_7.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_7.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 As the temperatures drop and frosty mornings become the norm, it's essential to take proactive measures to protect your trees and shrubs from the damaging effects of frost. <!--more-->Frost can wreak havoc on tender plants, causing foliage to wilt, buds to freeze, and branches to become brittle. However, with the right strategies in place, you can safeguard your landscape and ensure your trees and shrubs emerge unscathed come spring. In this comprehensive guide, we'll explore essential tips for frost protection that will help you preserve the beauty and health of your outdoor oasis.
 

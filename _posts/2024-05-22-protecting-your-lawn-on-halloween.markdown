@@ -2,8 +2,10 @@
 layout: post
 title:  "Protecting Your Lawn on Halloween"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_6.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_6.jpg'
+categories: [indiana, grass, decoration, curb appeal, garden, flowers, recreation]
 ---
 As Halloween approaches, it's time to embrace the spirit of the season and transform your lawn into a spooky spectacle that delights trick-or-treaters and neighbors alike. <!--more-->However, while decorating for Halloween can be fun and festive, it's essential to take precautions to protect your lawn from potential damage and ensure the safety of visitors. In this article, we'll explore some tips for protecting your lawn on Halloween while still embracing the spirit of the holiday.
 

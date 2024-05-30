@@ -2,8 +2,10 @@
 layout: post
 title:  "Essential Tips for Maintaining a Lush Lawn"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_6.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_6.jpg'
+categories: [indiana, grass, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 As temperatures soar and heatwaves become more frequent, maintaining a healthy, vibrant lawn can be a challenge. <!--more-->Heatwaves can stress grass, causing it to turn brown, wilt, and even die if not properly cared for. However, with the right strategies in place, you can help your lawn survive and thrive during even the hottest summer months. In this comprehensive guide, we'll explore essential tips for lawn care to help your grass withstand the scorching heat and maintain its beauty and resilience.
 

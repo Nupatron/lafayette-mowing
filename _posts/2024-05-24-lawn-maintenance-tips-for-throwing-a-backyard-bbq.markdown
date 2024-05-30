@@ -2,8 +2,10 @@
 layout: post
 title:  "Lawn Maintenance Tips for Throwing a Backyard BBQ"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_14.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_14.jpg'
+categories: [grass, trees, shrubs, fertilization, decoration, curb appeal, recreation]
 ---
 Throwing a backyard BBQ is a quintessential summer activity, bringing together friends and family for delicious food, refreshing drinks, and memorable moments.<!--more--> But before you fire up the grill and break out the lawn games, it's essential to ensure that your outdoor space is in top shape for hosting guests. In this comprehensive guide, we'll share expert lawn maintenance tips to help you prepare your lawn for a successful and enjoyable backyard BBQ extravaganza.
 1. Start with a Clean Slate

@@ -2,8 +2,10 @@
 layout: post
 title:  "Your Essential Spring Lawn Maintenance Checklist"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_12.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_12.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 As winter fades away and the warmer temperatures of spring arrive, it's time to give your lawn the attention it deserves. <!--more-->Proper spring lawn maintenance is essential for promoting healthy growth, preventing common issues, and ensuring your turf looks its best throughout the growing season. In this article, we'll provide you with an essential spring lawn maintenance checklist to help you achieve a lush and vibrant lawn that you can enjoy all season long.
 

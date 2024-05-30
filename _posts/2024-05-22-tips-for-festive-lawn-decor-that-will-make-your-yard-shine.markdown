@@ -2,8 +2,10 @@
 layout: post
 title:  "Tips for Festive Lawn Decor That Will Make Your Yard Shine"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_14.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_14.jpg'
+categories: [grass, decoration, curb appeal]
 ---
 The holiday season is upon us, and what better way to spread cheer than by decking out your lawn with festive decorations? <!--more-->Whether you're a seasoned decorator or new to the game, transforming your outdoor space into a winter wonderland can be a fun and rewarding experience. In this guide, we'll explore creative and practical tips for festive lawn decor that will delight visitors and passersby alike, while also keeping your lawn healthy and vibrant throughout the season.
 

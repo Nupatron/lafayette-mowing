@@ -2,8 +2,10 @@
 layout: post
 title:  "Your Ultimate Guide to the Best Backyard BBQ"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_10.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_9.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 There's nothing quite like the sizzle of meat on the grill and the aroma of barbecue smoke wafting through the air to signal the arrival of summer. <!--more-->Whether you're hosting a casual cookout with friends or celebrating a special occasion with family, a backyard BBQ is the perfect opportunity to enjoy delicious food, good company, and the great outdoors. In this comprehensive guide, we'll walk you through everything you need to know to host the best backyard BBQ, from choosing the perfect grill to mastering essential barbecue techniques and creating mouthwatering dishes that will impress your guests.
 

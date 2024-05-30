@@ -2,8 +2,10 @@
 layout: post
 title:  "Your Ultimate Guide to Top Activities for Spring"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_8.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_8.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 As the days grow longer and the temperatures begin to rise, spring brings a sense of renewal and excitement.<!--more--> It's the perfect time to shake off the winter blues and embrace the outdoors with a variety of fun and engaging activities. From gardening and outdoor sports to exploring nature and enjoying time with family, there's something for everyone to enjoy during this vibrant season. In this article, we'll explore a range of top activities to help you make the most of springtime and create lasting memories in your outdoor space.
 

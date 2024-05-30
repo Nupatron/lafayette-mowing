@@ -2,8 +2,10 @@
 layout: post
 title:  "How to Water Your Trees This Summer"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_10.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_10.jpg'
+categories: [trees, shrubs, garden, flowers, recreation]
 ---
 Proper watering is essential for the health and longevity of your trees, especially during the hot summer months. <!--more-->Inadequate watering can lead to stress, making trees more susceptible to diseases and pests. This guide will help you understand the best practices for watering your trees in the summer, ensuring they remain healthy and vibrant.
 

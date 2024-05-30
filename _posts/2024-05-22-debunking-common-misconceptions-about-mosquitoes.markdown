@@ -2,8 +2,10 @@
 layout: post
 title:  "Debunking Common Misconceptions About Mosquitoes"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_15.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_15.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Mosquitoes are among the most irritating pests, known for their itchy bites and potential to transmit diseases. <!--more-->With their prevalence and nuisance, it's no surprise that numerous myths and misconceptions surround these tiny insects. In this article, we'll debunk common mosquito myths and separate fact from fiction to help you better understand these pesky pests and how to effectively manage them in your outdoor spaces.
 

@@ -2,8 +2,10 @@
 layout: post
 title:  "Top Backyard Ideas and Patio Upgrades for Spring"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_13.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_13.jpg'
+categories: [indiana, decoration, curb appeal, flowers, recreation]
 ---
 As the days grow longer and the weather begins to warm, spring is the perfect time to breathe new life into your backyard and patio area. <!--more-->Whether you're looking to create an outdoor oasis for relaxation, entertainment, or recreation, there are countless ways to enhance your outdoor space and make the most of the season. In this article, we'll explore top backyard ideas and patio upgrades for spring that will help you transform your outdoor space into a haven of relaxation and enjoyment.
 

@@ -2,8 +2,10 @@
 layout: post
 title:  "Identifying Common Lawn Pests and How to Control Them"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_13.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_13.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization]
 ---
 Maintaining a lush, green lawn requires more than just regular mowing and watering—it also involves protecting your turf from a variety of common pests that can wreak havoc on its health and appearance. <!--more-->From tiny insects to larger mammals, there's a wide range of pests that can take up residence in your lawn and cause damage if left unchecked. In this article, we'll play a game of "Guess the Pest" as we explore some of the most common lawn pests, how to identify them, and the best strategies for controlling their populations.
 

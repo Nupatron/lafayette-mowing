@@ -2,8 +2,10 @@
 layout: post
 title:  "Planning the Perfect Backyard Graduation Celebration"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_8.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_8.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Graduation is a significant milestone in life, marking the culmination of years of hard work and dedication. <!--more-->Whether it's high school, college, or graduate school, celebrating this achievement is essential for recognizing the graduate's accomplishments and creating lasting memories with family and friends. Planning a backyard graduation celebration is a fantastic way to honor the graduate in a personalized and meaningful setting. In this article, we'll explore tips and ideas for planning the perfect backyard graduation celebration that the graduate and guests will cherish for years to come.
 

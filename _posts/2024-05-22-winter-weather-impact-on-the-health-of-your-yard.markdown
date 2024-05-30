@@ -2,8 +2,10 @@
 layout: post
 title:  "Winter Weather Impact on the Health of Your Yard"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_14.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_14.jpg'
+categories: [indiana, grass, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 As the temperature drops and snow begins to fall, it's easy to forget about lawn care until springtime rolls around. <!--more-->However, winter weather can have a significant impact on the health of your yard, affecting everything from soil quality to the resilience of your grass. In this comprehensive guide, we'll explore the winter weather's effects on your yard's health and provide practical tips for winter lawn care to ensure your lawn emerges healthy and vibrant when spring arrives.
 

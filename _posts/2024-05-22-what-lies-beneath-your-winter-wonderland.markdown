@@ -2,8 +2,10 @@
 layout: post
 title:  "What Lies Beneath Your Winter Wonderland"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_9.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_9.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 As winter blankets the landscape with a pristine layer of snow, it's easy to forget about the bustling ecosystem that lies beneath the surface of your lawn. <!--more-->While it may appear dormant during the cold winter months, the soil beneath your winter wonderland is teeming with life and activity that plays a crucial role in maintaining the health and vitality of your lawn. In this article, we'll delve into the hidden world beneath your winter landscape, exploring the importance of soil health during the winter months and how you can support it to ensure a vibrant and resilient lawn come spring.
 

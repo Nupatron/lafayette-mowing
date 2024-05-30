@@ -2,8 +2,10 @@
 layout: post
 title:  "Winter Care Tips for Bermuda Grass Lawns"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_16.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_16.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Bermuda grass is a popular warm-season grass known for its durability, resilience, and vibrant green color. <!--more-->While Bermuda grass thrives in warm climates, it requires special care during the winter months to ensure it remains healthy and vibrant come spring. In this guide, we'll explore essential winter care tips for Bermuda grass lawns, helping you preserve the beauty and vitality of your turf throughout the colder season.
 

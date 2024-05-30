@@ -2,8 +2,10 @@
 layout: post
 title:  "Tips for Getting Your Family Outside This Spring"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_13.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_13.jpg'
+categories: [curb appeal, garden, flowers, recreation]
 ---
 With the arrival of spring comes warmer weather, blooming flowers, and the perfect opportunity to spend quality time outdoors with your family. <!--more-->Whether you're looking to enjoy the sunshine, connect with nature, or simply unwind in the fresh air, getting your family outside this spring can lead to countless memorable experiences. In this article, we'll share a variety of tips and ideas to inspire your family to embrace the outdoors and make the most of the spring season together.
 

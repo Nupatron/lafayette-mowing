@@ -2,8 +2,10 @@
 layout: post
 title:  "Simple Watering Tips for a Healthy, Vibrant Lawn"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_8.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_8.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Proper watering is essential for maintaining a lush, green lawn that enhances the beauty of your outdoor space. <!--more-->However, many homeowners struggle to find the right balance when it comes to watering their lawns. Too much water can lead to waterlogged soil and fungal diseases, while too little water can result in dry, brown patches. In this article, we'll share simple watering tips to help you achieve a healthy, vibrant lawn that thrives throughout the season.
 1. Water Early in the Morning

@@ -2,8 +2,10 @@
 layout: post
 title:  "Your Complete Lawn Maintenance Checklist"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_15.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_15.jpg'
+categories: [grass, shrubs, fertilization,]
 ---
 Maintaining a lush, green lawn requires regular care and attention throughout the year. <!--more-->From mowing and watering to fertilizing and weed control, there are several tasks that need to be done to keep your turf looking its best. In this comprehensive lawn maintenance checklist, we'll cover all the essential steps you need to take to ensure a healthy and beautiful lawn season after season.
 1. Mowing

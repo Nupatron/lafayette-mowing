@@ -2,8 +2,10 @@
 layout: post
 title:  "Fall Lawn Aeration"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_10.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_10.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 As the leaves begin to change and temperatures cool, it's time to start thinking about fall lawn care tasks to ensure your yard remains healthy and vibrant year-round. <!--more-->One essential practice to add to your fall lawn care routine is aeration. Fall aeration is a crucial step in promoting healthy root growth, improving soil structure, and enhancing overall lawn health. In this comprehensive guide, we'll explore the benefits of fall aeration and provide tips for incorporating this essential practice into your lawn care regimen.
 

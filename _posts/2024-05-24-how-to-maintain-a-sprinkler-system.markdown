@@ -2,8 +2,10 @@
 layout: post
 title:  "How to Maintain a Sprinkler System"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_14.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_14.jpg'
+categories: [grass, trees, shrubs, curb appeal, garden]
 ---
 A well-maintained sprinkler system is the cornerstone of a healthy, vibrant lawn. <!--more-->Regular upkeep ensures that your system operates efficiently, conserves water, and keeps your grass looking lush and green. In this guide, we’ll walk you through the essential steps to maintain your sprinkler system, helping you avoid common pitfalls and costly repairs.
 1. Understand Your Sprinkler System Components

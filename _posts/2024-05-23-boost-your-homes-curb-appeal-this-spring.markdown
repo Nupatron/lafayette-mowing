@@ -2,8 +2,10 @@
 layout: post
 title:  "Boost Your Home's Curb Appeal This Spring"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_6.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_6.jpg'
+categories: [indiana, curb appeal, garden, flowers, recreation]
 ---
 With the arrival of spring comes the perfect opportunity to enhance the curb appeal of your home and make a lasting impression on visitors and passersby alike. <!--more-->From refreshing landscaping to adding eye-catching accents, there are countless ways to elevate the appearance of your home's exterior and create a welcoming atmosphere. In this article, we'll explore a variety of springtime curb appeal ideas to help you transform your home into a show-stopping masterpiece.
 1. Refresh Your Landscaping

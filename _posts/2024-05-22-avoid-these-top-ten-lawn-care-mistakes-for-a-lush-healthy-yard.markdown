@@ -2,8 +2,10 @@
 layout: post
 title:  "Avoid These Top Ten Lawn Care Mistakes for a Lush, Healthy Yard"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_11.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_11.jpg'
+categories: [indiana, grass, fertilization]
 ---
 Maintaining a lush, healthy lawn requires more than just occasional mowing and watering. <!--more-->It's about understanding the needs of your grass, soil, and climate and taking the right steps to keep your lawn thriving year-round. Unfortunately, many homeowners unknowingly make common lawn care mistakes that can hinder the health and beauty of their yards. In this guide, we'll highlight the top ten lawn care mistakes to avoid, helping you achieve the vibrant, green lawn you've always wanted.
 1. Overwatering

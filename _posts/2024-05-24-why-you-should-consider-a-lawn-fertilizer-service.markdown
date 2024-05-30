@@ -2,8 +2,10 @@
 layout: post
 title:  "Why You Should Consider a Lawn Fertilizer Service"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_13.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_13.jpg'
+categories: [grass, fertilization, garden, flowers]
 ---
 A vibrant, healthy lawn is the pride of any homeowner, but achieving and maintaining lush green grass can be a challenging task. <!--more-->One of the most effective ways to nurture your lawn and promote optimal growth is through regular fertilization. In this article, we'll explore the benefits of enlisting the help of a professional lawn fertilizer service and why it's a smart investment for your lawn's long-term health and beauty.
 

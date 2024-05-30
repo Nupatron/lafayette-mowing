@@ -2,8 +2,10 @@
 layout: post
 title:  "The Value of Curb Appeal When Selling Your Home"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_6.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_6.jpg'
+categories: [indiana, curb appeal, garden, flowers, recreation]
 ---
 When it comes to selling your home, first impressions matter. <!--more-->Potential buyers form an opinion about your property before they even step inside, based on its curb appeal. A well-maintained lawn can significantly enhance the attractiveness and perceived value of your home, ultimately leading to a quicker sale and higher selling price. In this article, we'll explore the importance of curb appeal when selling your home and discuss how investing in your lawn can pay off big when it comes time to put your property on the market.
 

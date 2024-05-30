@@ -2,8 +2,10 @@
 layout: post
 title:  "Planting Bougainvillea"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_7.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_7.jpg'
+categories: [indiana, grass, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Bougainvillea is a stunning and vibrant flowering vine that adds a splash of color and tropical beauty to any garden or landscape. <!--more-->Known for its bright and showy bracts, bougainvillea is a popular choice for adding visual interest to fences, trellises, and arbors. In this article, we'll explore everything you need to know about planting, growing, and caring for bougainvillea to ensure it thrives in your outdoor space.
 

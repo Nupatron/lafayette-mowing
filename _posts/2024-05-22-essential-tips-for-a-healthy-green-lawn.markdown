@@ -2,8 +2,10 @@
 layout: post
 title:  "Essential Tips for a Healthy, Green Lawn"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_7.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_7.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 A lush, green lawn is the hallmark of a well-maintained landscape, providing a vibrant outdoor space for relaxation, recreation, and enjoyment. <!--more-->However, achieving and maintaining a healthy lawn requires more than just occasional mowing and watering. It requires a combination of proper lawn care practices, regular maintenance, and a deep understanding of your lawn's unique needs. In this comprehensive guide, we'll share essential tips for cultivating a healthy, green lawn that will be the envy of the neighborhood.
 1. Soil Preparation

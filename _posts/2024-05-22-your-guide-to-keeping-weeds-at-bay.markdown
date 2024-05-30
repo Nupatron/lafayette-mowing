@@ -2,8 +2,10 @@
 layout: post
 title:  "Your Guide to Keeping Weeds at Bay"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_11.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_1.jpg'
+categories: [indiana, grass, recreation]
 ---
 Weeds are the unwelcome intruders that can quickly take over your lawn, detracting from its beauty and health. <!--more-->Whether they're popping up between cracks in the sidewalk or infiltrating your carefully manicured turf, weeds are a persistent nuisance that requires proactive management. In this comprehensive guide, we'll explore effective weed control strategies to help you keep weeds at bay and maintain a lush, healthy lawn that you can be proud of.
 

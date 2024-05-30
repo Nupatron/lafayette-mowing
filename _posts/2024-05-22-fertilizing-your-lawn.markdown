@@ -2,8 +2,10 @@
 layout: post
 title:  "Fertilizing Your Lawn"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_9.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_9.jpg'
+categories: [indiana, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Fertilizing your lawn is a key component of maintaining a lush, healthy, and vibrant green space. <!--more-->However, applying fertilizer at the right time is crucial to ensure maximum effectiveness and promote optimal growth. In this comprehensive guide, we'll delve into the importance of timing when it comes to fertilizing your lawn, helping you achieve the best results and a lawn you can be proud of.
 

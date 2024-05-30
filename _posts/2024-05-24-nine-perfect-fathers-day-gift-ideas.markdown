@@ -2,8 +2,10 @@
 layout: post
 title:  "9 Perfect Father’s Day Gift Ideas"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_11.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_11.jpg'
+categories: [indiana, grass, trees, shrubs, decoration, curb appeal, garden, recreation]
 ---
 Father's Day is the perfect opportunity to show appreciation for the special father figure in your life.<!--more--> If your dad is a gardening enthusiast or simply enjoys spending time outdoors, consider giving him a gift that reflects his love for nature and gardening. In this article, we'll explore nine perfect Father's Day gift ideas that are sure to delight the green-thumbed dad in your life.
 

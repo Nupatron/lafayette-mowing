@@ -2,8 +2,10 @@
 layout: post
 title:  "Understanding Dollar Spot Lawn Disease"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_9.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_9.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Dollar spot lawn disease is a common fungal infection that can wreak havoc on otherwise healthy lawns, causing small, circular patches of dead or discolored grass. <!--more-->Named for the small, silver dollar-sized spots it produces, this disease is prevalent in warm, humid climates and can quickly spread throughout your lawn if left untreated. In this comprehensive guide, we'll explore the causes, symptoms, and treatment options for dollar spot lawn disease, empowering you to identify and address this common lawn care challenge effectively.
 

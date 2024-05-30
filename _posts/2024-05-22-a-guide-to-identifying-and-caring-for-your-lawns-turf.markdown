@@ -2,8 +2,10 @@
 layout: post
 title:  "A Guide to Identifying and Caring for Your Lawn's Turf"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_14.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_14.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Your lawn's grass type plays a crucial role in its overall health, appearance, and maintenance requirements. <!--more-->However, many homeowners are unsure of what type of grass they have or how to properly care for it. In this comprehensive guide, we'll help you discover your grass type and provide tips for identifying, nurturing, and maintaining a lush and healthy lawn.
 

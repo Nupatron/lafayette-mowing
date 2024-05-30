@@ -2,8 +2,10 @@
 layout: post
 title:  "Mastering Perimeter Pest Control"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_16.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_16.jpg'
+categories: [pests, decoration, curb appeal, garden, flowers, recreation]
 ---
 Pests invading your lawn and home can be more than just a nuisance; they can cause damage to your property and pose health risks to your family. <!--more-->Perimeter pest control is a proactive approach to pest management that focuses on creating a barrier around your home to prevent pests from entering. In this article, we'll delve into the importance of perimeter pest control, explore effective strategies for implementation, and provide tips for maintaining a pest-free environment both indoors and outdoors.
 

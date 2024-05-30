@@ -2,8 +2,10 @@
 layout: post
 title:  "Mastering Your Lawn"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_15.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_15.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Achieving a lush, healthy lawn requires more than just regular mowing and watering. <!--more-->To unlock the full potential of your outdoor oasis, it's essential to implement expert tips and techniques that promote optimal lawn health and vitality. In this comprehensive guide, we'll share invaluable insights and advice from lawn care experts to help you elevate your lawn care game and cultivate a vibrant, thriving lawn that enhances your outdoor living experience.
 

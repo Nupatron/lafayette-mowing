@@ -2,8 +2,10 @@
 layout: post
 title:  "Understanding Brown Patch Lawn Disease"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_10.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_10.jpg'
+categories: [grass, pests, curb appeal, garden, flowers, recreation]
 ---
 Brown patch lawn disease is a common fungal infection that can wreak havoc on otherwise healthy lawns, causing unsightly brown patches and thinning grass. <!--more-->This fungal disease thrives in warm, humid conditions and can quickly spread throughout your lawn if left untreated. In this comprehensive guide, we'll explore the causes, symptoms, and treatment options for brown patch lawn disease, empowering you to identify and address this common lawn care challenge effectively.
 

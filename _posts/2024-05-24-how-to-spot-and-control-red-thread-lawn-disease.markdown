@@ -2,8 +2,10 @@
 layout: post
 title:  "How to Spot and Control Red Thread Lawn Disease"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_11.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_11.jpg'
+categories: [indiana, grass, pests, curb appeal]
 ---
 Red thread lawn disease is a common fungal infection that affects various grass types, leading to unsightly red or pink patches on your lawn. <!--more-->If left untreated, it can weaken the grass and make your lawn more susceptible to other diseases. This guide will help you identify red thread lawn disease and provide effective strategies for controlling and preventing it.
 

@@ -2,8 +2,10 @@
 layout: post
 title:  "Seed vs. Sod: Choosing the Best Option for Fall Grass"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_10.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_10.jpg'
+categories: [indiana, grass, trees, curb appeal, garden, flowers, recreation]
 ---
 As fall approaches, many homeowners start thinking about rejuvenating their lawns to ensure lush, green grass in the coming seasons. <!--more-->One of the key decisions to make is whether to use seed or sod for fall grass establishment. Both options have their advantages and considerations, and understanding the differences between them can help you make an informed choice for your lawn. In this article, we'll explore the pros and cons of using seed and sod for fall grass and provide guidance to help you decide which option is right for you.
 

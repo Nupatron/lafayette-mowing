@@ -2,8 +2,10 @@
 layout: post
 title:  "Professional Lawn Care vs DIY"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_8.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_8.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Maintaining a healthy and vibrant lawn requires time, effort, and expertise. <!--more-->As a homeowner, you may find yourself faced with the decision of whether to tackle lawn care tasks yourself or enlist the help of a professional lawn care service. In this article, we'll compare the benefits and drawbacks of professional lawn care and do-it-yourself (DIY) lawn care to help you make an informed decision about the best approach for your lawn.
 

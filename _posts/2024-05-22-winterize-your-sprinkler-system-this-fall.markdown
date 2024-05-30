@@ -2,8 +2,10 @@
 layout: post
 title:  "Winterize Your Sprinkler System This Fall"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_13.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_13.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 As the leaves begin to change and temperatures start to drop, it's time to start thinking about preparing your lawn for the winter months ahead. <!--more-->One essential task to add to your fall to-do list is winterizing your sprinkler system. Properly winterizing your irrigation system is crucial to prevent costly damage from freezing temperatures and ensure it's ready to perform flawlessly when spring arrives. In this guide, we'll walk you through the steps to winterize your sprinkler system this fall, so you can rest easy knowing your investment is protected.
 

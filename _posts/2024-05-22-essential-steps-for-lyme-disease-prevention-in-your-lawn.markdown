@@ -2,8 +2,10 @@
 layout: post
 title:  "Essential Steps for Lyme Disease Prevention in Your Lawn"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_8.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_8.jpg'
+categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
 ---
 Ticks are small, blood-sucking parasites that can pose a significant health risk to humans and pets. <!--more-->In particular, ticks are known carriers of Lyme disease, a bacterial infection that can cause serious health complications if left untreated. As the warmer months approach and outdoor activities increase, it's crucial to understand ticks and implement effective prevention strategies to protect yourself and your loved ones. In this article, we'll explore the basics of tick biology, the risks associated with Lyme disease, and essential steps for preventing tick bites in your lawn.
 

@@ -2,8 +2,10 @@
 layout: post
 title:  "The Benefits of Spring Lawn Aeration"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_1.jpg'
+thumbnail: '/images/image_12.jpg'
 excerpt_separator: <!--more-->
+hero_image: '/images/image_12.jpg'
+categories: [indiana, grass, curb appeal, garden]
 ---
 Spring lawn aeration is a fundamental practice in lawn care that can significantly improve the health, vitality, and overall appearance of your lawn.<!--more--> By perforating the soil with small holes, aeration allows air, water, and nutrients to penetrate deep into the root zone, promoting robust root growth and enhancing the resilience of your turf. In this article, we'll explore the numerous benefits of spring lawn aeration and why it's an essential step in achieving a healthy and vibrant lawn.
 
