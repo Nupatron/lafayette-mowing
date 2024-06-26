@@ -4,7 +4,8 @@
   "description": "Mowing site template",
   "main": "index.html",
   "scripts": {
-    "dev": "http-server -o ./"
+    "dev": "jekyll serve",
+    "build": "jekyll build"
   },
   "author": "",
   "license": "ISC"
