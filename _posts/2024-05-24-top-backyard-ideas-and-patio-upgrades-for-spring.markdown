@@ -2,7 +2,7 @@
 layout: post
 title:  "Top Backyard Ideas and Patio Upgrades for Spring"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_13.jpg'
+thumbnail: '/images/image_13-thumbnail.jpg'
 excerpt_separator: <!--more-->
 hero_image: '/images/image_13.jpg'
 categories: [indiana, decoration, curb appeal, flowers, recreation]

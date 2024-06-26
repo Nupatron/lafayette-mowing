@@ -2,7 +2,7 @@
 layout: post
 title:  "Keep America Beautiful: Clean Your Block"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_6.jpg'
+thumbnail: '/images/image_6-thumbnail.jpg'
 excerpt_separator: <!--more-->
 hero_image: '/images/image_6.jpg'
 categories: [indiana, curb appeal, garden, flowers, recreation]

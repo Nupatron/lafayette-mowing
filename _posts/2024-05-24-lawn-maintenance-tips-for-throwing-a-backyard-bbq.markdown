@@ -2,7 +2,7 @@
 layout: post
 title:  "Lawn Maintenance Tips for Throwing a Backyard BBQ"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_14.jpg'
+thumbnail: '/images/image_14-thumbnail.jpg'
 excerpt_separator: <!--more-->
 hero_image: '/images/image_14.jpg'
 categories: [grass, trees, shrubs, fertilization, decoration, curb appeal, recreation]

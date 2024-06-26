@@ -2,7 +2,7 @@
 layout: post
 title:  "Winter Care Tips for Bermuda Grass Lawns"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_16.jpg'
+thumbnail: '/images/image_16-thumbnail.jpg'
 excerpt_separator: <!--more-->
 hero_image: '/images/image_16.jpg'
 categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]

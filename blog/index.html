@@ -21,15 +21,16 @@ paginate: 2
       {% for post in site.posts %}
         <div class="col-md-4 d-flex ftco-animate">
           <div class="blog-entry justify-content-end">
-            <a href="{{ post.url }}" class="block-20" style="background-image: url({{ post.thumbnail }});"></a>
+            <a href="blog-single.html" class="block-20" style="background-image: url('{{ post.thumbnail }}');">
+            </a>
             <div class="text p-4 float-right d-block">
               <div class="topper d-flex align-items-center">
                 <div class="one py-2 pl-3 pr-1 align-self-stretch">
-                  <span class="day">{{ page.date | date: "%e" }}</span>
+                  <span class="day">{{ post.date | date: "%e" }}</span>
                 </div>
                 <div class="two pl-0 pr-3 py-2 align-self-stretch">
-                  <span class="yr">{{ page.date | date: "%Y" }}</span>
-                  <span class="mos">{{ page.date | date: "%A" }}</span>
+                  <span class="yr">{{ post.date | date: "%Y" }}</span>
+                  <span class="mos">{{ post.date | date: "%A" }}</span>
                 </div>
               </div>
               <h3 class="heading mb-0"><a href="{{ post.url }}">{{ post.title }}</a></h3>

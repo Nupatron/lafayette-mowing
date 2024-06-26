@@ -2,7 +2,7 @@
 layout: post
 title:  "Prepare Your Lawn for Winter"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_15.jpg'
+thumbnail: '/images/image_15-thumbnail.jpg'
 excerpt_separator: <!--more-->
 hero_image: '/images/image_15.jpg'
 categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]

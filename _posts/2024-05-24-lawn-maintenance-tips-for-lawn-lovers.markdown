@@ -2,7 +2,7 @@
 layout: post
 title:  "Lawn Maintenance Tips for Lawn Lovers"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_15.jpg'
+thumbnail: '/images/image_15-thumbnail.jpg'
 excerpt_separator: <!--more-->
 hero_image: '/images/image15.jpg'
 categories: [indiana, grass, fertilization, garden, flowers, recreation]

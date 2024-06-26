@@ -2,7 +2,7 @@
 layout: post
 title:  "Paws Off the Grass: Pet Waste Management for a Healthy Lawn"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_15.jpg'
+thumbnail: '/images/image_15-thumbnail.jpg'
 excerpt_separator: <!--more-->
 hero_image: '/images/image_15.jpg'
 categories: [indiana, grass, pests, garden, flowers, recreation]

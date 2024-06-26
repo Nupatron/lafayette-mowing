@@ -2,7 +2,7 @@
 layout: post
 title:  "5 Essential Facts About Lyme Disease and Tick Prevention"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_5.jpg'
+thumbnail: '/images/image_5-thumbnail.jpg'
 excerpt_separator: <!--more-->
 hero_image: '/images/image_5.jpg'
 categories: [indiana, pests, garden, recreation]

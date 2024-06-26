@@ -2,7 +2,7 @@
 layout: post
 title:  "Top 10 Buggiest Cities in 2024"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_11.jpg'
+thumbnail: '/images/image_11-thumbnail.jpg'
 excerpt_separator: <!--more-->
 hero_image: '/images/image_11.jpg'
 categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]

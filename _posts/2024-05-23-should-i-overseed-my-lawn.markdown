@@ -2,7 +2,7 @@
 layout: post
 title:  "Should I Overseed My Lawn?"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_9.jpg'
+thumbnail: '/images/image_9-thumbnail.jpg'
 excerpt_separator: <!--more-->
 hero_image: '/images/image_9.jpg'
 categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]

@@ -2,7 +2,7 @@
 layout: post
 title:  "How Lawn Aeration Works"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_12.jpg'
+thumbnail: '/images/image_12-thumbnail.jpg'
 excerpt_separator: <!--more-->
 hero_image: '/images/image_12.jpg'
 categories: [indiana, grass, recreation]

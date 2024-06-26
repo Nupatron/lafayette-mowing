@@ -2,7 +2,7 @@
 layout: post
 title:  "Make the Most of Your Backyard"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_8.jpg'
+thumbnail: '/images/image_8-thumbnail.jpg'
 excerpt_separator: <!--more-->
 hero_image: '/images/image_8.jpg'
 categories: [indiana, decoration, curb appeal, garden, flowers, recreation]

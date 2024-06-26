@@ -2,7 +2,7 @@
 layout: post
 title:  "The Benefits of Overseeding Your Lawn"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_13.jpg'
+thumbnail: '/images/image_13-thumbnail.jpg'
 excerpt_separator: <!--more-->
 hero_image: '/images/image_13.jpg'
 categories: [grass, trees, shrubs, pests, fertilization]
@@ -22,7 +22,7 @@ A thick, healthy lawn is one of the best defenses against weed infestations, as 
 Overseeding with disease-resistant grass varieties can help bolster your lawn's defenses against common turf diseases such as brown patch, dollar spot, and rust. Disease-resistant grasses are less susceptible to fungal pathogens and other disease-causing organisms, reducing the risk of disease outbreaks and the need for costly treatments.
 
 ## Enhanced Aesthetic Appeal
-A thick, lush lawn is not only healthier but also more visually appealing, enhancing the overall beauty and curb appeal of your property. Overseeding 
+A thick, lush lawn is not only healthier but also more visually appealing, enhancing the overall beauty and curb appeal of your property. Overseeding
 can help transform a tired, worn-out lawn into a vibrant green oasis, creating a welcoming outdoor space for relaxation, recreation, and enjoyment.
 
 ## Seasonal Adaptation

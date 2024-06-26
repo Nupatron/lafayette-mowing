@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Water Your Trees This Summer"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_10.jpg'
+thumbnail: '/images/image_10-thumbnail.jpg'
 excerpt_separator: <!--more-->
 hero_image: '/images/image_10.jpg'
 categories: [trees, shrubs, garden, flowers, recreation]

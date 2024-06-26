@@ -2,7 +2,7 @@
 layout: post
 title:  "Tips for a Green Christmas"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_8.jpg'
+thumbnail: '/images/image_8-thumbnail.jpg'
 excerpt_separator: <!--more-->
 hero_image: '/images/image_8.jpg'
 categories: [grass, trees, fertilization, decoration, curb appeal, flowers, recreation]

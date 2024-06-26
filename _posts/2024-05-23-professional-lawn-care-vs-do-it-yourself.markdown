@@ -2,7 +2,7 @@
 layout: post
 title:  "Professional Lawn Care vs. Do-It-Yourself"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_14.jpg'
+thumbnail: '/images/image_14-thumbnail.jpg'
 excerpt_separator: <!--more-->
 hero_image: '/images/image_14.jpg'
 categories: [indiana, grass, fertilization, decoration]

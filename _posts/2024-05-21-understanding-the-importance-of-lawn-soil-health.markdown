@@ -2,7 +2,7 @@
 layout: post
 title:  "Understanding the Importance of Lawn Soil Health"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_16.jpg'
+thumbnail: '/images/image_16-thumbnail.jpg'
 excerpt_separator: <!--more-->
 hero_image: '/images/image_16.jpg'
 categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]

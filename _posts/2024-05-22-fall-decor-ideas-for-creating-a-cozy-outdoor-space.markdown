@@ -2,7 +2,7 @@
 layout: post
 title:  "Fall Decor Ideas for Creating a Cozy Outdoor Space"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_11.jpg'
+thumbnail: '/images/image_11-thumbnail.jpg'
 excerpt_separator: <!--more-->
 hero_image: '/images/image_11.jpg'
 categories: [indiana, decoration, curb appeal, garden, flowers, recreation]

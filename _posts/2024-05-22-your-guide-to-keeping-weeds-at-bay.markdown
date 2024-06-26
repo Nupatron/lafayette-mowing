@@ -2,7 +2,7 @@
 layout: post
 title:  "Your Guide to Keeping Weeds at Bay"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_11.jpg'
+thumbnail: '/images/image_11-thumbnail.jpg'
 excerpt_separator: <!--more-->
 hero_image: '/images/image_1.jpg'
 categories: [indiana, grass, recreation]

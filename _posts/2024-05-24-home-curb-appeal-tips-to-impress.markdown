@@ -2,7 +2,7 @@
 layout: post
 title:  "Home Curb Appeal Tips to Impress"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_13.jpg'
+thumbnail: '/images/image_13-thumbnail.jpg'
 excerpt_separator: <!--more-->
 hero_image: '/images/image_13.jpg'
 categories: [decoration, curb appeal, recreation]

@@ -2,7 +2,7 @@
 layout: post
 title:  "Maintaining a Lush Lawn Year-Round"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_9.jpg'
+thumbnail: '/images/image_9-thumbnail.jpg'
 excerpt_separator: <!--more-->
 hero_image: '/images/image_9.jpg'
 categories: [indiana, grass, fertilization, decoration, curb appeal]
@@ -36,7 +36,7 @@ Time of Day: Water early in the morning to minimize evaporation and reduce the r
 Efficiency: Use a sprinkler system or soaker hoses to ensure even watering. Smart irrigation systems can adjust watering schedules based on weather conditions.
 Zones: Set up irrigation zones to cater to different areas of your lawn, ensuring each part receives the right amount of water.
 
-## Fertilization 
+## Fertilization
 Fertilizing your lawn provides essential nutrients that promote healthy growth and vibrant color.
 * Seasonal Fertilization
 Cool-Season Grasses: Fertilize in early spring and fall. These grasses benefit from a higher nitrogen content in the fall to build strong roots.

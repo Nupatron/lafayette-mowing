@@ -2,7 +2,7 @@
 layout: post
 title:  "Effective Methods for Broadleaf Weed Control"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_6.jpg'
+thumbnail: '/images/image_6-thumbnail.jpg'
 excerpt_separator: <!--more-->
 hero_image: '/images/image_6.jpg'
 categories: [pests, curb appeal, garden]
@@ -10,7 +10,7 @@ categories: [pests, curb appeal, garden]
 Broadleaf weeds can quickly invade your lawn, detracting from its beauty and vitality and competing with grass for nutrients, water, and sunlight.<!--more--> Effectively controlling broadleaf weeds requires a combination of preventative measures, cultural practices, and targeted treatments to eradicate existing weeds and prevent future infestations. In this article, we'll explore effective methods for broadleaf weed control that will help you maintain a healthy, lush lawn you can be proud of.
 
 ## Maintain Healthy Turf
-A thick, healthy lawn is your best defense against broadleaf weed infestations. Implement proper lawn care practices, such as regular mowing, watering, and fertilization, to promote strong, vigorous turf growth. Keep your lawn well-fed and hydrated to encourage dense grass coverage, which will help 
+A thick, healthy lawn is your best defense against broadleaf weed infestations. Implement proper lawn care practices, such as regular mowing, watering, and fertilization, to promote strong, vigorous turf growth. Keep your lawn well-fed and hydrated to encourage dense grass coverage, which will help
 smother out weeds and prevent them from taking hold.
 
 ## Mow at the Right Height

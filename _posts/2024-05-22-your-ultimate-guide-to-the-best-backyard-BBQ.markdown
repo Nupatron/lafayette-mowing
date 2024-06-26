@@ -2,7 +2,7 @@
 layout: post
 title:  "Your Ultimate Guide to the Best Backyard BBQ"
 date:   2024-05-21 16:13:02 -0400
-thumbnail: '/images/image_10.jpg'
+thumbnail: '/images/image_10-thumbnail.jpg'
 excerpt_separator: <!--more-->
 hero_image: '/images/image_9.jpg'
 categories: [indiana, grass, trees, shrubs, pests, fertilization, decoration, curb appeal, garden, flowers, recreation]
